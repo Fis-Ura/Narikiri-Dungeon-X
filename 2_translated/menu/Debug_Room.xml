@@ -129,19 +129,19 @@
       <PointerOffset>1528436</PointerOffset>
       <JapaneseText>init_common_script 開始
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>init_common_script start</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1528476</PointerOffset>
       <JapaneseText>フェードアウト開始
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fade-out start</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1529160</PointerOffset>
@@ -2598,10 +2598,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>1773556</PointerOffset>
       <JapaneseText>チャットテスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skit Test</EnglishText>
       <Notes/>
       <Id>285</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1773664</PointerOffset>
@@ -2614,10 +2614,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>1773856</PointerOffset>
       <JapaneseText>サブイベント</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sub-Event</EnglishText>
       <Notes/>
       <Id>287</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1773964</PointerOffset>
@@ -2630,10 +2630,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>1774156</PointerOffset>
       <JapaneseText>ムービーテスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Movie Test</EnglishText>
       <Notes/>
       <Id>289</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1774308</PointerOffset>
@@ -2646,10 +2646,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>1775132</PointerOffset>
       <JapaneseText>ダンジョン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dungeon</EnglishText>
       <Notes/>
       <Id>291</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1775148</PointerOffset>
@@ -2696,10 +2696,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>1778696</PointerOffset>
       <JapaneseText>タウン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Town</EnglishText>
       <Notes/>
       <Id>295</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1778712</PointerOffset>
@@ -3206,15 +3206,15 @@ CP
       <EnglishText/>
       <Notes/>
       <Id>352</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1783900</PointerOffset>
       <JapaneseText>%s%s%s%s%s%s%s%s%s%s%s%s%s</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s%s%s%s%s%s%s%s%s%s%s%s%s</EnglishText>
       <Notes/>
       <Id>353</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1784248</PointerOffset>
@@ -3284,10 +3284,18 @@ AC4408_2 現在2</JapaneseText>
 レベル−１０
 レベル＋５０
 レベル−５０</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Level MAX
+Level +1
+Level -1
+Level +5
+Level -5
+Level +10
+Level -10
+Level +50
+Level -50</EnglishText>
       <Notes/>
       <Id>360</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1791640</PointerOffset>
@@ -6096,10 +6104,12 @@ SB_500 アーチェと宝箱</JapaneseText>
       <JapaneseText>その１　　　　　　　　　　
 その２
 その３</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Part 1　　　　　　　　　　
+Part 2
+Part 3</EnglishText>
       <Notes/>
       <Id>618</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2012696</PointerOffset>
@@ -6129,10 +6139,10 @@ CG　その７　瘴気のくさび
     <Entry>
       <PointerOffset>2013992</PointerOffset>
       <JapaneseText>テスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Test</EnglishText>
       <Notes/>
       <Id>621</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2014008</PointerOffset>
@@ -6170,10 +6180,10 @@ Test
     <Entry>
       <PointerOffset>2022188</PointerOffset>
       <JapaneseText>ムービー再生</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Movie Playback</EnglishText>
       <Notes/>
       <Id>625</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2022204</PointerOffset>
@@ -6188,10 +6198,20 @@ Test
 イベントCG 6
 イベントCG 7
 イベントCG 4-2</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Opening
+Ending
+Fake last
+Event CG 1
+Event CG 2
+Event CG 3
+Event CG 4-1
+Event CG 5
+Event CG 6
+Event CG 7
+Event CG 4-2</EnglishText>
       <Notes/>
       <Id>626</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2022904</PointerOffset>
