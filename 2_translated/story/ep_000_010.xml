@@ -149,10 +149,10 @@ so my friends could... </EnglishText>
     <Entry>
       <PointerOffset>1040</PointerOffset>
       <JapaneseText>DYC_EP_000_010</JapaneseText>
-      <EnglishText/>
+      <EnglishText>DYC_EP_000_010</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1480</PointerOffset>
@@ -216,10 +216,11 @@ so my friends could... </EnglishText>
       <PointerOffset>19804</PointerOffset>
       <JapaneseText>%d [%d]
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>%d [%d]
+</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>20256</PointerOffset>
