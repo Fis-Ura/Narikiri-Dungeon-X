@@ -12,8 +12,8 @@
     </Entry>
     <Entry>
       <PointerOffset>274992,275100,275160</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText>&lt;Claus&gt;</EnglishText>
+      <JapaneseText>&lt;Klarth&gt;</JapaneseText>
+      <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Done</Status>
@@ -95,7 +95,7 @@
     <Section>Main</Section>
     <Entry>
       <PointerOffset>274916</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;さん……</JapaneseText>
+      <JapaneseText>&lt;Klarth&gt;さん……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>

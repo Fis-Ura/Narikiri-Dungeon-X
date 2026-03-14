@@ -24,7 +24,7 @@ NAMES = {
     "DIO": "Dio",
     "HIS": "Hisui",
     "INE": "Ines",
-    "KLA": "Claus",
+    "KLA": "Klarth",
     "KOH": "Kohaku",
     "KUL": "Couleur",
     "KUN": "Kunzite",

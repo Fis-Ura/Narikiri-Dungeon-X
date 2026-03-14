@@ -4,8 +4,8 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>280108,280276,280420,280584,280728,281044,281180,281348,281528,281708,281840,282080,282232,282752,282968,283256,283368,283464,283676,284096</PointerOffset>
-      <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText>&lt;Claus&gt;</EnglishText>
+      <JapaneseText>&lt;Klarth&gt;</JapaneseText>
+      <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Done</Status>
@@ -409,7 +409,7 @@
     <Entry>
       <PointerOffset>282352</PointerOffset>
       <JapaneseText>ありがとうございます、
-&lt;Claus&gt;さん</JapaneseText>
+&lt;Klarth&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>

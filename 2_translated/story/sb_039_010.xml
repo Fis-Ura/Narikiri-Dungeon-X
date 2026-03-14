@@ -13,10 +13,10 @@
     <Entry>
       <PointerOffset>294772,295136</PointerOffset>
       <JapaneseText>変な格好をした女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oddly Dressed Woman</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>294840,295700,296408,296560</PointerOffset>
@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>295412,295584,295996,296188,296272</PointerOffset>
       <JapaneseText>ワンダーシェフ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wonder Chef</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -89,34 +89,34 @@
       <PointerOffset>294564</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_001&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kururu!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294776</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_002&gt;</VoiceId>
       <JapaneseText>見つけてくれて
 サンキュー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you for finding me!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294776</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_003&gt;</VoiceId>
       <JapaneseText>ん……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mmm...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294776</PointerOffset>
@@ -124,22 +124,24 @@
       <JapaneseText>……うふふふふふふふふ……、
 これはいい面構え！
 ひさしぶりにピーンと来た！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>....Mwahaha! You have awesome faces and crazy
+styles! It's so long since I seen anything like this!
+It just makes the deepest parts of my heart itch!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294844</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_005&gt;</VoiceId>
       <JapaneseText>だ、だれ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-who're you...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295140</PointerOffset>
@@ -147,12 +149,14 @@
       <JapaneseText>聞かれて名乗らぬは女の恥！
 いいかしら、聞いて驚け、
 私の名は……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just listen to the one that has "embarrassment of a woman's
+pride" written all over her face! It's fine, though, as you'll
+be astonished to find out who the hell you are dealing with...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295140</PointerOffset>
@@ -160,12 +164,13 @@
       <JapaneseText>味の結社
 『すばらしき味の世界』の
 主任料理長、ワンダーシェフ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The association of flavor "The wonderful world
+of flavors" responsible official, the Wonder Chef!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295140</PointerOffset>
@@ -173,34 +178,36 @@
       <JapaneseText>人は、ドラムを叩くような
 包丁さばきから私を
 稲妻のリリアンと呼ぶわ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I strike my drum with my kitchen knife
+for everlasting justice, known as
+"Lilian, the flash"!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295212</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_009&gt;</VoiceId>
       <JapaneseText>似合わねー名前……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What a lousy name…</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295416</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_010&gt;</VoiceId>
       <JapaneseText>人は親しみ込めて
 リッちゃん∀って呼ぶわよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Or you can call me Lily, for short~!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295416</PointerOffset>
@@ -208,33 +215,37 @@
       <JapaneseText>私を見つけられたご褒美に、
 『すばらしき味の世界』直伝、
 料理レシピを教えてあげる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since you found me, I'll give you this special
+recipe taught directly from "The wonderful
+world of flavors."</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295480</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_012&gt;</VoiceId>
       <JapaneseText>マジで！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For REAL!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295588</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_013&gt;</VoiceId>
       <JapaneseText>信じる者は救われる！
 し・ん・じ・な・さいっ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And by my word, you lesser beings shall
+become believers! B.E.L.I.E.V.E!!
+</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295704</PointerOffset>
@@ -242,22 +253,23 @@
       <JapaneseText>&lt;Dio&gt;……
 知らない人から変なもの、
 もらっちゃいけないって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think we should talk to weirdoes, &lt;Dio&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296000</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_015&gt;</VoiceId>
       <JapaneseText>変なものとか、言うなぁあっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Who the hell do you think you are
+calling ME a weirdo!!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296000</PointerOffset>
@@ -265,48 +277,52 @@
       <JapaneseText>んんっ……食事は命の洗濯、
 食卓は清らかな水湧く泉、
 食器は洗濯板！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahem... food is like life's laundry! Food table is
+like the hot water fountain to clean your wares!
+Tableware is like your dearest washboard!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296000</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_017&gt;</VoiceId>
       <JapaneseText>戦いに疲れた時、
 いや人生に疲れた時、</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When you are tired after battle--No, when
+your DAMNED LIFE is tired...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296000</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_018&gt;</VoiceId>
       <JapaneseText>このレシピはあなたを洗う
 泡立つしゃぼんとなる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This recipe will wash out all your wounds! Wash you
+squeaky clean! With bubbles and all that crap!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296192</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_019&gt;</VoiceId>
       <JapaneseText>そして、食材は
 洗剤のようなもの！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Food is the most powerful detergent!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296192</PointerOffset>
@@ -314,77 +330,81 @@
       <JapaneseText>これをあげるから、
 たくさん練習を積み上げるのよ！
 あの山の頂のケルンのように！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You'll need to cook a lot before really understanding
+it, though. Keep practicing and you'll be able to create
+amazing cologne!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296276</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_021&gt;</VoiceId>
       <JapaneseText>……では、サラバっ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Guess that's about it. See ya!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296412</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_022&gt;</VoiceId>
       <JapaneseText>……このレシピ、
 ちゃんとしてる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Th-This recipe is actually pretty nice...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296412</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_023&gt;</VoiceId>
       <JapaneseText>もらった食材も
 新鮮だし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll need to get some fresh ingredients first, though...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296488</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_024&gt;</VoiceId>
       <JapaneseText>んじゃ、
 もらっとこーぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right, let's see if we can get some.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296564</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_025&gt;</VoiceId>
       <JapaneseText>うーん、いいのかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... but I still wonder if this recipe is
+actually for something edible...
+</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296632</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_026&gt;</VoiceId>
       <JapaneseText>気にすんなって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's nothing to worry about!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
