@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>41892,42100,42212,42324,42728</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>41976,42428,42524,42640</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -55,7 +55,7 @@
     <Entry>
       <PointerOffset>42216</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_146_004&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;ですが、さんは
+      <JapaneseText>ですが、&lt;Dio&gt;さんは
 肉体も精神も存分に強くなったと思います</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -118,8 +118,5 @@
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

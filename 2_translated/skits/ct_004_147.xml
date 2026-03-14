@@ -5,22 +5,22 @@
     <Entry>
       <PointerOffset>43844,44220</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43928,44152</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44008,44292</PointerOffset>
-      <JapaneseText>&lt;Cless&gt;&lt;Mint&gt;＆</JapaneseText>
+      <JapaneseText>&lt;Cless&gt;＆&lt;Mint&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>3</Id>
@@ -29,18 +29,18 @@
     <Entry>
       <PointerOffset>44460,44636</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44532,44728</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>43848</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_147_000&gt;</VoiceId>
-      <JapaneseText>&lt;Mint&gt;ありがとう、。
+      <JapaneseText>ありがとう、&lt;Mint&gt;。
 君のおかげでいつも助かってるよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -59,7 +59,7 @@
     <Entry>
       <PointerOffset>43932</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_147_001&gt;</VoiceId>
-      <JapaneseText>&lt;Cless&gt;そんな…いいんですよ、さん</JapaneseText>
+      <JapaneseText>そんな…いいんですよ、&lt;Cless&gt;さん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -148,8 +148,5 @@
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -52,8 +52,8 @@
     <Entry>
       <PointerOffset>41088</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_113_003&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;&lt;Mel&gt;いいや、マジで強いって。『と
-は　もう　じゅうぶんに　つよい』ってヤツだ！</JapaneseText>
+      <JapaneseText>いいや、マジで強いって。『&lt;Dio&gt;と
+&lt;Mel&gt;は　もう　じゅうぶんに　つよい』ってヤツだ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -90,8 +90,5 @@
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

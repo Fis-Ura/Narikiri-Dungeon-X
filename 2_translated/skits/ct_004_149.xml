@@ -5,42 +5,42 @@
     <Entry>
       <PointerOffset>46812,47216,47432</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46896,47828</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46976,47364,47492,47728</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47048,47892</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47144</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -58,7 +58,7 @@
     <Entry>
       <PointerOffset>46900</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_149_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;おめでとう！　すごいよ、！</JapaneseText>
+      <JapaneseText>おめでとう！　すごいよ、&lt;Mel&gt;！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -88,7 +88,7 @@
     <Entry>
       <PointerOffset>47148</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_149_005&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;やーっぱ、はすんげぇなぁ～</JapaneseText>
+      <JapaneseText>やーっぱ、&lt;Mel&gt;&lt;Mel&gt;はすんげぇなぁ～</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -150,7 +150,7 @@
     <Entry>
       <PointerOffset>47832</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_149_013&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;……が出てても、
+      <JapaneseText>……&lt;Dio&gt;が出てても、
 あんまり関係なさそうだね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -168,8 +168,5 @@
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

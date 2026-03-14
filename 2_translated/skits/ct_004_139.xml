@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>45328,46112</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45460,45604,45752,45820,46216</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45540,46008</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45664,45880,45944,46284</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,7 +50,7 @@
     <Entry>
       <PointerOffset>45464</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_139_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mint&gt;ちょっとだけですけど。さんに
+      <JapaneseText>ちょっとだけですけど。&lt;Mint&gt;さんに
 教えてもらった方法を練習しているところです</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -71,7 +71,7 @@
     <Entry>
       <PointerOffset>45608</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_139_004&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;あ、</JapaneseText>
+      <JapaneseText>あ、&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -141,7 +141,7 @@
     <Entry>
       <PointerOffset>46116</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_139_011&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;あ、あの、ちゃん、
+      <JapaneseText>あ、あの、&lt;Mel&gt;ちゃん、
 それは魔物にかける術ですよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -152,8 +152,8 @@
     <Entry>
       <PointerOffset>46220</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_139_012&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;ああっ。コスチュームが違ってた。
-ごめんね、</JapaneseText>
+      <JapaneseText>ああっ。コスチュームが違ってた。
+ごめんね、&lt;Couleur&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -170,8 +170,5 @@
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

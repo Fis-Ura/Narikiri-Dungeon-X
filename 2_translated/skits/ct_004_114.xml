@@ -50,7 +50,7 @@
     <Entry>
       <PointerOffset>45504</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_114_002&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;？　どうしたの、</JapaneseText>
+      <JapaneseText>？　どうしたの、&lt;Dio&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -81,7 +81,7 @@
     <Entry>
       <PointerOffset>45812</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_114_005&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;……その割にはしゃがないんだね、
+      <JapaneseText>……その割に&lt;Dio&gt;はしゃがないんだね、
 前みたいに</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -174,8 +174,5 @@
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

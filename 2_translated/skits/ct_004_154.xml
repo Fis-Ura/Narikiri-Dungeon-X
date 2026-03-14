@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>47112,47340</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47184,47412</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47268,47476,47656,48044,48260</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47592,47816,47968,48196</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -121,8 +121,8 @@
     <Entry>
       <PointerOffset>47820</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_154_009&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;おめぇ、ちーっとばかし戦闘に参加してるからっで、
-にかわいがられてるつもりか知らんけんどよ</JapaneseText>
+      <JapaneseText>おめぇ、ちーっとばかし戦闘に参加してるからっで、
+&lt;Mel&gt;&lt;Mel&gt;にかわいがられてるつもりか知らんけんどよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -153,8 +153,8 @@
     <Entry>
       <PointerOffset>48200</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_154_012&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;うるせーっちゅーに！　ええか、おら忠告しただーよ。
-に甘えるのは、金輪際許さねーだ！</JapaneseText>
+      <JapaneseText>うるせーっちゅーに！　ええか、おら忠告しただーよ。
+&lt;Mel&gt;&lt;Mel&gt;に甘えるのは、金輪際許さねーだ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -171,8 +171,5 @@
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

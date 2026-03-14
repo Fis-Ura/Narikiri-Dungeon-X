@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>45116,45300,45732</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45180,45364,45612</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45468</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45548,45672,45828,45916,45988</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -82,7 +82,7 @@
     <Entry>
       <PointerOffset>45472</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_165_005&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;こらーっ、！
+      <JapaneseText>こらーっ、&lt;Dio&gt;！
 夕飯の食材、つまみ食いしない！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -133,7 +133,7 @@
     <Entry>
       <PointerOffset>45832</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_165_010&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;って、うおっ！　なんだこれ！？　！？</JapaneseText>
+      <JapaneseText>って、うおっ！　なんだこれ！？　&lt;Couleur&gt;！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -160,8 +160,5 @@
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

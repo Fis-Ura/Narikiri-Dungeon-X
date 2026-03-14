@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>43432,43680,43744,43892,44032,44220,44376,44440</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43536,43616</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43820,44104,44312</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -104,7 +104,7 @@
     <Entry>
       <PointerOffset>44036</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_008&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;前のなら、ぼくを心配させないように
+      <JapaneseText>前の&lt;Mel&gt;なら、ぼくを心配させないように
 こういう時、なんでもないよって言ってたんだけド</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -164,8 +164,5 @@
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>47700,47948,48576,48828</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47848,48096,48376,48512,48740</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48172</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48240</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,8 +50,8 @@
     <Entry>
       <PointerOffset>47852</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_168_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;すごいだー！　さすがだー！　かしこいだー！
-やっぱは、すんばらしい娘っ子だでよ</JapaneseText>
+      <JapaneseText>すごいだー！　さすがだー！　かしこいだー！
+やっぱ&lt;Mel&gt;&lt;Mel&gt;は、すんばらしい娘っ子だでよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>48100</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_168_004&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;きゅっほーーーん∀　に感謝されただ。
+      <JapaneseText>きゅっほーーーん∀　&lt;Mel&gt;&lt;Mel&gt;に感謝されただ。
 おら、今日と言う日を一生忘れねーだーよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -114,7 +114,7 @@
     <Entry>
       <PointerOffset>48516</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_168_008&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;の～～～、？　ほんとに頑張ったで、
+      <JapaneseText>の～～～、&lt;Mel&gt;&lt;Mel&gt;？　ほんとに頑張ったで、
 おらが特別プレゼントあげるだーよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -153,8 +153,5 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

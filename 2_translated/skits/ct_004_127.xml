@@ -32,7 +32,7 @@
     <Entry>
       <PointerOffset>46508</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_127_001&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;さ、さっきのさん、
+      <JapaneseText>さ、さっきの&lt;Rody&gt;さん、
 ちょっと怖かったかも……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -65,7 +65,7 @@
     <Entry>
       <PointerOffset>46832</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_127_004&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;ずっとのターンって
+      <JapaneseText>ずっと&lt;Rody&gt;のターンって
 感じだったもんね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -157,8 +157,5 @@
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

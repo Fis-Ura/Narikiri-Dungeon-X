@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>49380,50692</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49448,49692,49940,50212,50512,50876</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49556,49812,50076,50288,50616</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>49620,50004,50392,50756</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -40,7 +40,7 @@
     <Entry>
       <PointerOffset>49384</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_150_000&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;すごいです、さん、優勝するなんて！</JapaneseText>
+      <JapaneseText>すごいです、&lt;Rody&gt;さん、優勝するなんて！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -102,8 +102,8 @@
     <Entry>
       <PointerOffset>49944</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_150_006&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;えっとね、毎日寝る前にパンチとキックの
-練習をしたよ、くんを相手にね</JapaneseText>
+      <JapaneseText>えっとね、毎日寝る前にパンチとキックの
+練習をしたよ、&lt;Couleur&gt;くんを相手にね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -144,7 +144,7 @@
     <Entry>
       <PointerOffset>50292</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_150_010&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;マ、マジか、！？</JapaneseText>
+      <JapaneseText>マ、マジか、&lt;Couleur&gt;！？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -186,7 +186,7 @@
     <Entry>
       <PointerOffset>50696</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_150_014&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;もうさん……！</JapaneseText>
+      <JapaneseText>もう&lt;Rody&gt;さん……！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -206,16 +206,13 @@
     <Entry>
       <PointerOffset>50880</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_150_016&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;いや～、めんごめんご。
-くんだまされやすいからさ～、つい……</JapaneseText>
+      <JapaneseText>いや～、めんごめんご。
+&lt;Dio&gt;くんだまされやすいからさ～、つい……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

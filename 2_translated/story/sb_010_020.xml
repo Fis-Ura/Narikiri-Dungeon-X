@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>304360,304464,304604,304828,305276,305448,305680,305788,305936,306020,306388,306700,306900,307216,307308,307444,307488,307532,307712,307800,307928,308188</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>304412,304544,304776,305096,305356,305616</PointerOffset>
@@ -21,10 +21,10 @@
     <Entry>
       <PointerOffset>308904,308960</PointerOffset>
       <JapaneseText>ディオス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>306284,306584</PointerOffset>
@@ -37,42 +37,42 @@
     <Entry>
       <PointerOffset>306336,306528,307044</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>306628,306952,307260</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>306780,307088,307380,308120</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>307640,307756,307872,308012</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>308064,308240</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -91,20 +91,20 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset>298032,298270,298335,298371,298442,298508,298547,298623,298694,298760,298771,298889,298975,299056,299132,299203,299269,299280,299449,299482,299493,299561,299597,299608,299679,299718,299729,299803,299845,299856,299899,300048,300084,300129,300186,300219,300260,300848,300859,301014,301122,301296,301372,301470,301576,301642,301695,301809,302006,302248,302313,302378,302443,303117,303458,303659</PointerOffset>
-      <JapaneseText>アルベルト</JapaneseText>
+      <PointerOffset/>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>299969,300021,300417,301002,301797,302100,302154,302210,302508,302556,302604,302658,302718,302772,302826,302929,302987</PointerOffset>
-      <JapaneseText>information</JapaneseText>
+      <PointerOffset/>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -119,7 +119,9 @@
     <Section>Main</Section>
     <Entry>
       <PointerOffset>304364</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>……それでね……
+この塔に　引っ越してきた時の
+ことなんだけど……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -129,9 +131,7 @@
     </Entry>
     <Entry>
       <PointerOffset>304364</PointerOffset>
-      <JapaneseText>……それでね……
-この塔に　引っ越してきた時の
-ことなんだけど……サブリナ、覚えてる？</JapaneseText>
+      <JapaneseText>サブリナ、覚えてる？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -179,7 +179,8 @@
     </Entry>
     <Entry>
       <PointerOffset>304780</PointerOffset>
-      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <JapaneseText>あっ、あのね！　&lt;Arche&gt;……
+私、うらやましいの！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -189,7 +190,8 @@
     </Entry>
     <Entry>
       <PointerOffset>304780</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>あなたは、他の人より
+ずっと長く生きてるよね？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -199,9 +201,7 @@
     </Entry>
     <Entry>
       <PointerOffset>304780</PointerOffset>
-      <JapaneseText>あっ、あのね！　……
-私、うらやましいの！あなたは、他の人より
-ずっと長く生きてるよね？見た目もずっと
+      <JapaneseText>見た目もずっと
 『女の子』って感じで……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -221,7 +221,8 @@
     </Entry>
     <Entry>
       <PointerOffset>305100</PointerOffset>
-      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;とは、子どもの頃からの
+つきあいだけど……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -231,7 +232,9 @@
     </Entry>
     <Entry>
       <PointerOffset>305100</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>変に大人ぶるような
+こともなく……いつでも
+対等な立場で話してくれた</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -241,7 +244,8 @@
     </Entry>
     <Entry>
       <PointerOffset>305100</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>……それにいつも明るくて
+元気で……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -251,11 +255,7 @@
     </Entry>
     <Entry>
       <PointerOffset>305100</PointerOffset>
-      <JapaneseText>とは、子どもの頃からの
-つきあいだけど……変に大人ぶるような
-こともなく……いつでも
-対等な立場で話してくれた……それにいつも明るくて
-元気で……長く生きるということはその分、
+      <JapaneseText>長く生きるということはその分、
 つらいことや嫌なことも
 たくさんあるはずなのに……</JapaneseText>
       <EnglishText/>
@@ -267,7 +267,7 @@
     </Entry>
     <Entry>
       <PointerOffset>305280</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>確かにあったかもね……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -277,7 +277,8 @@
     </Entry>
     <Entry>
       <PointerOffset>305280</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>でも悪いことはほとんど
+忘れちゃった！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -287,7 +288,8 @@
     </Entry>
     <Entry>
       <PointerOffset>305280</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>その分、あたしは
+楽しい思い出の方を……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -297,9 +299,7 @@
     </Entry>
     <Entry>
       <PointerOffset>305280</PointerOffset>
-      <JapaneseText>確かにあったかもね……でも悪いことはほとんど
-忘れちゃった！その分、あたしは
-楽しい思い出の方を……たくさんたくさん
+      <JapaneseText>たくさんたくさん
 た～くさん持ってるんだよ♪</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -331,7 +331,9 @@
     </Entry>
     <Entry>
       <PointerOffset>305620</PointerOffset>
-      <JapaneseText>&lt;Arche&gt;</JapaneseText>
+      <JapaneseText>うふふ……
+&lt;Arche&gt;と　話していると
+なんだか、元気になれるわ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -341,7 +343,8 @@
     </Entry>
     <Entry>
       <PointerOffset>305620</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>……あら、そろそろご飯を
+作りに帰らなくちゃ……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -351,10 +354,7 @@
     </Entry>
     <Entry>
       <PointerOffset>305620</PointerOffset>
-      <JapaneseText>うふふ……
-と　話していると
-なんだか、元気になれるわ……あら、そろそろご飯を
-作りに帰らなくちゃ……それじゃ、また来るわね</JapaneseText>
+      <JapaneseText>それじゃ、また来るわね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -374,7 +374,8 @@
     </Entry>
     <Entry>
       <PointerOffset>305792</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>…………
+…………</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -384,8 +385,7 @@
     </Entry>
     <Entry>
       <PointerOffset>305792</PointerOffset>
-      <JapaneseText>…………
-………………なんだか、昔のことを
+      <JapaneseText>……なんだか、昔のことを
 いっぱい思い出しちゃった……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -396,7 +396,8 @@
     </Entry>
     <Entry>
       <PointerOffset>305940</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>あたしとみんなは、
+時の流れが違う……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -406,7 +407,8 @@
     </Entry>
     <Entry>
       <PointerOffset>305940</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>みんな……
+いなくなる……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -416,9 +418,7 @@
     </Entry>
     <Entry>
       <PointerOffset>305940</PointerOffset>
-      <JapaneseText>あたしとみんなは、
-時の流れが違う……みんな……
-いなくなる……長い眠りから目覚めた時、
+      <JapaneseText>長い眠りから目覚めた時、
 みんな……いなかった……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -439,7 +439,7 @@
     </Entry>
     <Entry>
       <PointerOffset>308908</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>永遠なんて……ないのさ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -449,7 +449,8 @@
     </Entry>
     <Entry>
       <PointerOffset>308908</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>友情も、愛もいつかは
+つらい別れとなる……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -459,7 +460,8 @@
     </Entry>
     <Entry>
       <PointerOffset>308908</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>人との結びつきが強ければ
+強いほど……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -469,7 +471,7 @@
     </Entry>
     <Entry>
       <PointerOffset>308908</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>心を重ねることが多いほど……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -479,7 +481,8 @@
     </Entry>
     <Entry>
       <PointerOffset>308908</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>それらは後でつらい想いと
+なってしまう</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -489,10 +492,7 @@
     </Entry>
     <Entry>
       <PointerOffset>308908</PointerOffset>
-      <JapaneseText>永遠なんて……ないのさ友情も、愛もいつかは
-つらい別れとなる……人との結びつきが強ければ
-強いほど……心を重ねることが多いほど……それらは後でつらい想いと
-なってしまう……ならば……
+      <JapaneseText>……ならば……
 初めからそんなものは
 なければいいんだよ……</JapaneseText>
       <EnglishText/>
@@ -504,7 +504,7 @@
     </Entry>
     <Entry>
       <PointerOffset>306288</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>永遠なんて……ないのさ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -514,7 +514,8 @@
     </Entry>
     <Entry>
       <PointerOffset>306288</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>友情も、愛もいつかは
+つらい別れとなる……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -524,7 +525,8 @@
     </Entry>
     <Entry>
       <PointerOffset>306288</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>人との結びつきが強ければ
+強いほど……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -534,7 +536,7 @@
     </Entry>
     <Entry>
       <PointerOffset>306288</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>心を重ねることが多いほど……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -544,7 +546,8 @@
     </Entry>
     <Entry>
       <PointerOffset>306288</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>それらは後でつらい想いと
+なってしまう</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -554,10 +557,7 @@
     </Entry>
     <Entry>
       <PointerOffset>306288</PointerOffset>
-      <JapaneseText>永遠なんて……ないのさ友情も、愛もいつかは
-つらい別れとなる……人との結びつきが強ければ
-強いほど……心を重ねることが多いほど……それらは後でつらい想いと
-なってしまう……ならば……
+      <JapaneseText>……ならば……
 初めからそんなものは
 なければいいんだよ……</JapaneseText>
       <EnglishText/>
@@ -587,7 +587,8 @@
     </Entry>
     <Entry>
       <PointerOffset>306532</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>そんなことないよ。
+例え別れがつらくても……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -597,8 +598,7 @@
     </Entry>
     <Entry>
       <PointerOffset>306532</PointerOffset>
-      <JapaneseText>そんなことないよ。
-例え別れがつらくても……でも、そのことが、
+      <JapaneseText>でも、そのことが、
 強く生きていくための力に
 なるんだよ……！</JapaneseText>
       <EnglishText/>
@@ -665,7 +665,7 @@
     </Entry>
     <Entry>
       <PointerOffset>306784</PointerOffset>
-      <JapaneseText>&lt;Arche&gt;いえ……さん、
+      <JapaneseText>いえ……&lt;Arche&gt;さん、
 どうしてるかなって……</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -675,7 +675,7 @@
     </Entry>
     <Entry>
       <PointerOffset>306904</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>どうしてるって……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -685,7 +685,7 @@
     </Entry>
     <Entry>
       <PointerOffset>306904</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>……この通り、元気だよ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -695,7 +695,7 @@
     </Entry>
     <Entry>
       <PointerOffset>306904</PointerOffset>
-      <JapaneseText>どうしてるって…………この通り、元気だよ！なに？　なに？
+      <JapaneseText>なに？　なに？
 あたしの力が借りたいの？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -735,7 +735,7 @@
     </Entry>
     <Entry>
       <PointerOffset>307220</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>…………</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -745,7 +745,7 @@
     </Entry>
     <Entry>
       <PointerOffset>307220</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>……よしっ！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -755,7 +755,7 @@
     </Entry>
     <Entry>
       <PointerOffset>307220</PointerOffset>
-      <JapaneseText>………………よしっ！お姉さん、エトちゃんの
+      <JapaneseText>お姉さん、エトちゃんの
 かわいい双子ちゃんたちの
 ために一肌脱いじゃおう！</JapaneseText>
       <EnglishText/>
@@ -1096,43 +1096,19 @@
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>298248</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>24</Id>
-      <Status>ref:Notice:79</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>298346</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>25</Id>
-      <Status>ref:Notice:77</Status>
-    </Entry>
-    <Entry>
       <PointerOffset>299619</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>26</Id>
+      <Id>24</Id>
       <Status>ref:Notice:116</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>299460</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>27</Id>
-      <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
       <PointerOffset>299690</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>28</Id>
+      <Id>25</Id>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
@@ -1140,31 +1116,15 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>29</Id>
+      <Id>26</Id>
       <Status>ref:Notice:116</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>298346</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>30</Id>
-      <Status>ref:Notice:77</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>298519</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>31</Id>
-      <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
       <PointerOffset>299867</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>32</Id>
+      <Id>27</Id>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
@@ -1172,87 +1132,31 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>33</Id>
+      <Id>28</Id>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
       <PointerOffset>299929</PointerOffset>
-      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
-%s×%d</JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <SpeakerId>13</SpeakerId>
-      <Id>34</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>299929</PointerOffset>
-      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
-%s×%d</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>13</SpeakerId>
-      <Id>35</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>299929</PointerOffset>
-      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
-%s×%d</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>12</SpeakerId>
-      <Id>36</Id>
-      <Status>To Do</Status>
+      <Id>29</Id>
+      <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
       <PointerOffset>300059</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>37</Id>
+      <Id>30</Id>
       <Status>ref:Notice:73</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>299427</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>38</Id>
-      <Status>ref:Notice:80</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>299929</PointerOffset>
-      <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;&lt;White&gt;&lt;NoOutline&gt;アイテムを取得しました！
-%s×%d</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>12</SpeakerId>
-      <Id>39</Id>
-      <Status>To Do</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>299427</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>40</Id>
-      <Status>ref:Notice:80</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>299427</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>41</Id>
-      <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
       <PointerOffset>300429</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>42</Id>
+      <Id>31</Id>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
@@ -1260,7 +1164,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>43</Id>
+      <Id>32</Id>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
@@ -1268,7 +1172,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>44</Id>
+      <Id>33</Id>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
@@ -1276,23 +1180,15 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>45</Id>
+      <Id>34</Id>
       <Status>ref:Notice:123</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>298558</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>46</Id>
-      <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
       <PointerOffset>301025</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>47</Id>
+      <Id>35</Id>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
@@ -1300,7 +1196,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>48</Id>
+      <Id>36</Id>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
@@ -1308,7 +1204,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>49</Id>
+      <Id>37</Id>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
@@ -1316,7 +1212,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>50</Id>
+      <Id>38</Id>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
@@ -1324,7 +1220,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>51</Id>
+      <Id>39</Id>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
@@ -1332,7 +1228,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>52</Id>
+      <Id>40</Id>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
@@ -1340,7 +1236,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>53</Id>
+      <Id>41</Id>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
@@ -1348,23 +1244,15 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>54</Id>
+      <Id>42</Id>
       <Status>ref:Notice:85</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>298634</PointerOffset>
-      <JapaneseText/>
-      <EnglishText/>
-      <Notes/>
-      <Id>55</Id>
-      <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
       <PointerOffset>301820</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>56</Id>
+      <Id>43</Id>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
@@ -1372,7 +1260,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>57</Id>
+      <Id>44</Id>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
@@ -1380,7 +1268,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>58</Id>
+      <Id>45</Id>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
@@ -1388,7 +1276,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>59</Id>
+      <Id>46</Id>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
@@ -1396,7 +1284,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>60</Id>
+      <Id>47</Id>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
@@ -1404,7 +1292,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>61</Id>
+      <Id>48</Id>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
@@ -1412,7 +1300,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>62</Id>
+      <Id>49</Id>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
@@ -1420,7 +1308,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>63</Id>
+      <Id>50</Id>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
@@ -1428,7 +1316,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>64</Id>
+      <Id>51</Id>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
@@ -1436,7 +1324,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>65</Id>
+      <Id>52</Id>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
@@ -1444,7 +1332,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>66</Id>
+      <Id>53</Id>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
@@ -1452,7 +1340,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>67</Id>
+      <Id>54</Id>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
@@ -1460,7 +1348,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>68</Id>
+      <Id>55</Id>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
@@ -1468,7 +1356,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>69</Id>
+      <Id>56</Id>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
@@ -1476,7 +1364,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>70</Id>
+      <Id>57</Id>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
@@ -1484,7 +1372,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>71</Id>
+      <Id>58</Id>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
@@ -1492,7 +1380,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>72</Id>
+      <Id>59</Id>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
@@ -1500,7 +1388,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>73</Id>
+      <Id>60</Id>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
@@ -1508,7 +1396,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>74</Id>
+      <Id>61</Id>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
@@ -1516,7 +1404,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>75</Id>
+      <Id>62</Id>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
@@ -1524,7 +1412,7 @@
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
-      <Id>76</Id>
+      <Id>63</Id>
       <Status>ref:Notice:114</Status>
     </Entry>
   </Strings>

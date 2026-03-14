@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>41928,42228</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42048,42472</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42120,42288,42396</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -32,7 +32,7 @@
     <Entry>
       <PointerOffset>41932</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_133_001&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;さっきのの一撃、
+      <JapaneseText>さっきの&lt;Dio&gt;の一撃、
 ものすごい威力だったね、びっくりしちゃった</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -103,8 +103,5 @@
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

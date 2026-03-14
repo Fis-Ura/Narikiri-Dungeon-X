@@ -5,38 +5,38 @@
     <Entry>
       <PointerOffset>51580,52660,52848</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>51672,51876,52116,52216,52348,52488</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>51772,52004,52420</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>52576,52756,52944</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>53060,53328</PointerOffset>
-      <JapaneseText>&lt;Arche&gt;&lt;Chester&gt;＆</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;＆&lt;Chester&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>5</Id>
@@ -80,8 +80,8 @@
     <Entry>
       <PointerOffset>51880</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_141_004&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;&lt;Dio&gt;後ろを守ってるは
-より走ってないじゃん</JapaneseText>
+      <JapaneseText>後ろを守ってる&lt;Chester&gt;は
+&lt;Dio&gt;より走ってないじゃん</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -154,7 +154,7 @@
     <Entry>
       <PointerOffset>52580</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_141_011&gt;</VoiceId>
-      <JapaneseText>&lt;Arche&gt;&lt;Chester&gt;さんとさんって仲いいね</JapaneseText>
+      <JapaneseText>&lt;Arche&gt;さんと&lt;Chester&gt;さんって仲いいね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -185,7 +185,7 @@
     <Entry>
       <PointerOffset>52852</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_141_014&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;もっとお子ちゃまのに言われたくねー</JapaneseText>
+      <JapaneseText>もっとお子ちゃまの&lt;Mel&gt;に言われたくねー</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -224,8 +224,5 @@
       <Id>17</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

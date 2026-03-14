@@ -5,50 +5,50 @@
     <Entry>
       <PointerOffset>47560</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47680,48096</PointerOffset>
       <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47832</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>47984</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48244,48400,48600,48704</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>48496,48776</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -66,7 +66,7 @@
     <Entry>
       <PointerOffset>47684</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_156_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mint&gt;うんうん、やっぱりの法術があると、
+      <JapaneseText>うんうん、やっぱり&lt;Mint&gt;の法術があると、
 安心して攻撃に集中できるよ</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -77,7 +77,7 @@
     <Entry>
       <PointerOffset>47836</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_156_003&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Suzu&gt;そんなことありません。ちゃんやちゃんが
+      <JapaneseText>そんなことありません。&lt;Mel&gt;ちゃんや&lt;Suzu&gt;ちゃんが
 頑張ってくれているので、詠唱に集中できるだけです</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -88,8 +88,8 @@
     <Entry>
       <PointerOffset>47988</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_156_004&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;&lt;Rody&gt;さんの動きに比べれば、私などまだまだです。
-もっと修行して、さんのようになりたいです</JapaneseText>
+      <JapaneseText>&lt;Rody&gt;さんの動きに比べれば、私などまだまだです。
+もっと修行して、&lt;Rody&gt;さんのようになりたいです</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -99,7 +99,7 @@
     <Entry>
       <PointerOffset>48100</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_156_005&gt;</VoiceId>
-      <JapaneseText>&lt;Suzu&gt;あれ～ちゃん？
+      <JapaneseText>あれ～&lt;Suzu&gt;ちゃん？
 そんなに褒めても、なんも出ないよ？∀</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -169,8 +169,5 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -34,7 +34,7 @@
     <Entry>
       <PointerOffset>41180</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_119_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;すごいよ！
+      <JapaneseText>すごいよ&lt;Mel&gt;！
 あんな技があるなんて！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -56,8 +56,8 @@
     <Entry>
       <PointerOffset>41400</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_119_004&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Dio&gt;やっぱらしいよ。
-だったら浮かれまくって大変</JapaneseText>
+      <JapaneseText>やっぱ&lt;Mel&gt;らしいよ。
+&lt;Dio&gt;だったら浮かれまくって大変</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -85,8 +85,5 @@
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

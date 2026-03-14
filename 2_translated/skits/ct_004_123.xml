@@ -203,16 +203,13 @@
     <Entry>
       <PointerOffset>49380</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_123_017&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;ん、もうっ！
-の馬鹿！！</JapaneseText>
+      <JapaneseText>ん、もうっ！
+&lt;Dio&gt;の馬鹿！！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

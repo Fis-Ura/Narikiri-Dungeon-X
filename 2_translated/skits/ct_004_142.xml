@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>43656,44196,44364</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43760,44592</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43864,43992,44084,44292,44472</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -43,7 +43,7 @@
     <Entry>
       <PointerOffset>43764</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_142_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;なんだよ。も
+      <JapaneseText>なんだよ。&lt;Mel&gt;も
 簡単にホウキに乗れてるじゃねぇか</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -54,8 +54,8 @@
     <Entry>
       <PointerOffset>43868</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_142_003&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;ちっちっち。
-ちゃんも素質を持っているのだよ</JapaneseText>
+      <JapaneseText>ちっちっち。
+&lt;Mel&gt;ちゃんも素質を持っているのだよ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -65,7 +65,7 @@
     <Entry>
       <PointerOffset>43996</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_142_004&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;ねえちゃん。ホウキ仲間になったところで
+      <JapaneseText>ねえ&lt;Mel&gt;ちゃん。ホウキ仲間になったところで
 一緒にいいトコロいっちゃう？</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -119,7 +119,7 @@
     <Entry>
       <PointerOffset>44476</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_142_009&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;んじゃ、
+      <JapaneseText>んじゃ、&lt;Chester&gt;
 ちょっとだけ『ぐるぅびぃ』してくるねー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -130,7 +130,7 @@
     <Entry>
       <PointerOffset>44596</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_142_010&gt;</VoiceId>
-      <JapaneseText>&lt;Arche&gt;おい、どこいくんだよ。
+      <JapaneseText>おい、&lt;Arche&gt;どこいくんだよ。
 ていうか『ぐるぅびぃ』ってなんだよ！！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -138,8 +138,5 @@
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

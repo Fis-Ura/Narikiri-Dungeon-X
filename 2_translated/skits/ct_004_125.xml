@@ -115,8 +115,8 @@
     <Entry>
       <PointerOffset>45068</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_125_008&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;そ、そんなことないよ！
-まだまだひとりじゃ危なっかしくて……！</JapaneseText>
+      <JapaneseText>そ、そんなことないよ！
+まだまだ&lt;Dio&gt;ひとりじゃ危なっかしくて……！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -126,8 +126,8 @@
     <Entry>
       <PointerOffset>45152</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_125_009&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;……本？
-が落としたのかな</JapaneseText>
+      <JapaneseText>……本？
+&lt;Dio&gt;が落としたのかな</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -155,8 +155,5 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

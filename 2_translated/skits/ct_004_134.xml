@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>45992,46852</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46072,46284,46480,46636</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46188,46360,46564,46704,46932</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -126,8 +126,8 @@
     <Entry>
       <PointerOffset>46856</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_134_010&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;ガチャガチャっつーのはな、こう、スーっときて
-ダーッときてポンって事だ！　な～、</JapaneseText>
+      <JapaneseText>ガチャガチャっつーのはな、こう、スーっときて
+ダーッときてポンって事だ！　な～、&lt;Mel&gt;&lt;Mel&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -144,8 +144,5 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

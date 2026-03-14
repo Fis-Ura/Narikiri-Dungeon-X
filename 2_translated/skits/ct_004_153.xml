@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>42788,42968,43180,43312,43416,43544</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42848,43064,43248,43472</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -97,8 +97,8 @@
     <Entry>
       <PointerOffset>43420</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_153_008&gt;</VoiceId>
-      <JapaneseText>&lt;Mel&gt;いててて……　魔物より
-のほうが怖いっての……</JapaneseText>
+      <JapaneseText>いててて……　魔物より
+&lt;Mel&gt;のほうが怖いっての……</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>1</SpeakerId>
@@ -125,8 +125,5 @@
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

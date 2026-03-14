@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>44496,44636,44908,45168</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>44564,44788,45048,45240</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -54,8 +54,8 @@
     <Entry>
       <PointerOffset>44792</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_157_004&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;いやぁいやいや、笑うなんて、滅相もねーだーよ。
-戦闘から外されて、傷心のさんを笑うだなんて</JapaneseText>
+      <JapaneseText>いやぁいやいや、笑うなんて、滅相もねーだーよ。
+戦闘から外されて、傷心の&lt;Dio&gt;さんを笑うだなんて</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -105,8 +105,5 @@
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

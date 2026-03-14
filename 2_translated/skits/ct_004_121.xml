@@ -42,8 +42,8 @@
     <Entry>
       <PointerOffset>45932</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_121_001&gt;</VoiceId>
-      <JapaneseText>&lt;Rody&gt;すげー！　すげーすげー！　今の戦闘の技すげー！
-なぁ、オレもやりたい！</JapaneseText>
+      <JapaneseText>すげー！　すげーすげー！　今の戦闘の技すげー！
+なぁ&lt;Rody&gt;、オレもやりたい！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -146,8 +146,5 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

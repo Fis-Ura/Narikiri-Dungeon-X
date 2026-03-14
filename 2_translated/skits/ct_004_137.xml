@@ -5,50 +5,50 @@
     <Entry>
       <PointerOffset>45668,45728,45796</PointerOffset>
       <JapaneseText>&lt;Chester&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45880,46604</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45948,46496</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46040,46432</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46132,46220,46684</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46308,46752</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -116,7 +116,7 @@
     <Entry>
       <PointerOffset>46136</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_137_007&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;……は自分が弱いって思ってるんだ</JapaneseText>
+      <JapaneseText>……&lt;Chester&gt;は自分が弱いって思ってるんだ</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>5</SpeakerId>
@@ -146,7 +146,7 @@
     <Entry>
       <PointerOffset>46436</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_137_010&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;そっかー。見てたらやる気になってきた。
+      <JapaneseText>そっかー。&lt;Chester&gt;見てたらやる気になってきた。
 オレもなんかやってやるぞ！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -167,8 +167,8 @@
     <Entry>
       <PointerOffset>46608</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_137_012&gt;</VoiceId>
-      <JapaneseText>&lt;Dio&gt;なんかって何するの。
-もうったら！　待ってってば！</JapaneseText>
+      <JapaneseText>なんかって何するの。
+もう&lt;Dio&gt;ったら！　待ってってば！</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -195,8 +195,5 @@
       <Id>14</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

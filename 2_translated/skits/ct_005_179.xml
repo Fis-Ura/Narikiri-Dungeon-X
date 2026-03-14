@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>42496,42772,42896,43076</PointerOffset>
       <JapaneseText>&lt;Mint&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42596,43276</PointerOffset>
       <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42664,43000,43168</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -32,101 +32,104 @@
     <Entry>
       <PointerOffset>42500</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_001&gt;</VoiceId>
-      <JapaneseText>&lt;Chester&gt;&lt;Cless&gt;ええと……これがさん用で、
-これがさん用……</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>ええと……これが&lt;Chester&gt;さん用で、
+これが&lt;Cless&gt;さん用……</JapaneseText>
+      <EnglishText>Uhm... this is &lt;Chester&gt;'s portion, and
+this is &lt;Cless&gt;'s portion...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42600</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_002&gt;</VoiceId>
-      <JapaneseText>&lt;Mint&gt;ああっ！
-、またやってるの、そんなこと！</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>ああっ！
+&lt;Mint&gt;、またやってるの、そんなこと！</JapaneseText>
+      <EnglishText>&lt;Mint&gt;! Are you doing that again?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42668</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_003&gt;</VoiceId>
       <JapaneseText>何なんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What? Is there something wrong?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42776</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_004&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんはポークが好きなので、
 ポークの入っているの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm merely putting pork in &lt;Cless&gt;' plate 
+because he likes pork.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42900</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_005&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;さんはチキンが好きなので、
 チキンの入っている料理を作ってるんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>While I'm chooking chicken for &lt;Chester&gt;
+because he likes it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43004</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_006&gt;</VoiceId>
-      <JapaneseText>&lt;Mint&gt;そっか……さんって
+      <JapaneseText>そっか……&lt;Mint&gt;さんって
 気配り上手なんですね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ohh...! You're a really thoughtful
+person, &lt;Mint&gt;....</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43080</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_007&gt;</VoiceId>
       <JapaneseText>大所帯のお料理は大変です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's truly tiring to cook for a
+large household.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43172</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_008&gt;</VoiceId>
-      <JapaneseText>&lt;Mint&gt;よし！　わたしもさんを見習います！</JapaneseText>
-      <EnglishText/>
+      <JapaneseText>よし！　わたしも&lt;Mint&gt;さんを見習います！</JapaneseText>
+      <EnglishText>Alright! I'll also follow &lt;Mint&gt;'s example.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43280</PointerOffset>
       <VoiceId>&lt;audio:VCT_005_179_009&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;ちゃんまで！　ダメだって！
 男どもを甘やかしちゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even you, &lt;Mel&gt;!? You can't!
+Those boys are going to get spoiled!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

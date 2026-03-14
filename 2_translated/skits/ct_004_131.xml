@@ -5,34 +5,34 @@
     <Entry>
       <PointerOffset>45156,45316,45532,45784,45952,46128</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45240,45624</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45452,45884</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46052</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -70,7 +70,7 @@
     <Entry>
       <PointerOffset>45456</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_131_004&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;じゃあ、の大好物、フルーツパスタサラダ
+      <JapaneseText>じゃあ、&lt;Couleur&gt;の大好物、フルーツパスタサラダ
 作ってあげるから。ちょっと待っててね</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -91,7 +91,7 @@
     <Entry>
       <PointerOffset>45628</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_131_006&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;あ！　だけずりーっ！
+      <JapaneseText>あ！　&lt;Couleur&gt;だけずりーっ！
 オレにも！</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -152,8 +152,5 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

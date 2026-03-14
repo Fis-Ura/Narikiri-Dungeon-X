@@ -5,26 +5,26 @@
     <Entry>
       <PointerOffset>42868,43632</PointerOffset>
       <JapaneseText>&lt;Couleur&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>42980,43196,43352,43528,43744</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>43068,43292,43464,43844</PointerOffset>
       <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,7 @@
     <Entry>
       <PointerOffset>42984</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_166_002&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;しっかし、のヤツ、
+      <JapaneseText>しっかし、&lt;Couleur&gt;のヤツ、
 魔物捕獲すんのすげーうまくなったな</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -74,7 +74,7 @@
     <Entry>
       <PointerOffset>43296</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_166_005&gt;</VoiceId>
-      <JapaneseText>&lt;Couleur&gt;なんかもう、の生きがいになってるよね</JapaneseText>
+      <JapaneseText>なんかもう、&lt;Couleur&gt;の生きがいになってるよね</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -144,8 +144,5 @@
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>

@@ -5,30 +5,30 @@
     <Entry>
       <PointerOffset>45500,45732,45844,46292,46792</PointerOffset>
       <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45584,45948,46368,46724</PointerOffset>
       <JapaneseText>&lt;Claus&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Claus&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>45660,46224,46868</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>46136</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>4</Id>
@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>46460,46564,46664</PointerOffset>
       <JapaneseText>ノーム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gnome</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -205,15 +205,12 @@
     <Entry>
       <PointerOffset>46872</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_143_018&gt;</VoiceId>
-      <JapaneseText>&lt;Cless&gt;……さん２号……？</JapaneseText>
+      <JapaneseText>……&lt;Cless&gt;さん２号……？</JapaneseText>
       <EnglishText/>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
       <Status>To Do</Status>
     </Entry>
-  </Strings>
-  <Strings>
-    <Section>Notice</Section>
   </Strings>
 </SceneText>
