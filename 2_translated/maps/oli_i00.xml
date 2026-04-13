@@ -155,12 +155,13 @@ I'll be waiting for you to come again!</EnglishText>
       <PointerOffset>277012</PointerOffset>
       <JapaneseText>外は暑いけど
 屋内は涼しいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a scorcher out there!
+Come on in and stay cool!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277012</PointerOffset>
