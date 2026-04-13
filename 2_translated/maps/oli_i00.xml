@@ -134,21 +134,22 @@ Welcome to my "Spicy" Item Shop!</EnglishText>
     <Entry>
       <PointerOffset>277004</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277008</PointerOffset>
       <JapaneseText>ありがとうございました。
 またのご来店、お待ちしております</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very much!
+I'll be waiting for you to come again!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277012</PointerOffset>
