@@ -109,23 +109,25 @@
       <JapaneseText>こ、こんちは
 「ホーリーナイト」って
 しがない武具屋だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>H-hello. Welcome to my humble
+weapon shop, "Holy Knight." </EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274100</PointerOffset>
       <JapaneseText>見てってくれるの？
 あ、ありがたい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You are going to take a look?
+Oh, I appreciate it!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274104</PointerOffset>
@@ -134,128 +136,133 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274108</PointerOffset>
       <JapaneseText>ごめんな
 大したもんなくてさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry... our stock isn't anything special.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274108</PointerOffset>
       <JapaneseText>見てってくれて
 ありがとー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks for taking a look.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274112</PointerOffset>
       <JapaneseText>なんでこの店の主人
 あんなオドオドしてんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder why the owner is always so nervous.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274112</PointerOffset>
       <JapaneseText>売れるもんも
 売れんだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It really makes it hard to sell stuff.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274112</PointerOffset>
       <JapaneseText>卑屈なのは悪いこっちゃ
 ないけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There isn't necessarily anything wrong
+with downplaying your goods, but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274112</PointerOffset>
       <JapaneseText>この店の主人みたいに
 あそこまでだと
 逆に買いたくなくなるな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This guy takes it a bit too far.
+It actually makes me anxious to
+buy anything from their store.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274116</PointerOffset>
       <JapaneseText>うーん、あの主人
 あんなんで武器が
 売れるのかと思ったけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I thought there was no way a shop owner
+like that could sell any weapons...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274116</PointerOffset>
       <JapaneseText>意外と売れてるんだよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But they are actually doing pretty well.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274116</PointerOffset>
       <JapaneseText>……男前は得だな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Guess being good-looking has its perks.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274120</PointerOffset>
       <JapaneseText>らぁっしゃーい
 武具屋「ホーリーナイト」だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to the "Holy Knight" weapon shop!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274120</PointerOffset>
       <JapaneseText>名剣、名盾
 なんでもござれだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fine swords, fine shields.
+You name it, we've got it!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274124</PointerOffset>
@@ -264,18 +271,19 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274128</PointerOffset>
       <JapaneseText>大したもんがねぇとは
 言わせんぞ？
 あん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now spread the word of our great mechandise.
+I better not hear you badmouthing our goods.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274132</PointerOffset>
@@ -450,7 +458,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274164</PointerOffset>
@@ -614,7 +622,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274200</PointerOffset>
@@ -642,7 +650,7 @@
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274212</PointerOffset>
@@ -672,7 +680,7 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>52</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274224</PointerOffset>
