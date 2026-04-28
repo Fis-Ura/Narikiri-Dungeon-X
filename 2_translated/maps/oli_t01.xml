@@ -157,33 +157,34 @@
       <VoiceId>&lt;audio:VSS_039_020_001&gt;</VoiceId>
       <JapaneseText>見つけてくれて
 サンキュー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woah! Nice job finding me.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>318620</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_002&gt;</VoiceId>
       <JapaneseText>ご褒美よ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your keen eye deserves a reward!
+</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>318704</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_003&gt;</VoiceId>
       <JapaneseText>……では、サラバっ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Guess that's about it. See ya!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
