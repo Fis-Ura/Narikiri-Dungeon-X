@@ -155,8 +155,8 @@ I'll be waiting for you to come again!</EnglishText>
       <PointerOffset>277012</PointerOffset>
       <JapaneseText>外は暑いけど
 屋内は涼しいの</JapaneseText>
-      <EnglishText>It's a scorcher out there!
-Come on in and stay cool!</EnglishText>
+      <EnglishText>It's incredibly hot outside,
+but nice and cool in here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -166,34 +166,36 @@ Come on in and stay cool!</EnglishText>
     <Entry>
       <PointerOffset>277012</PointerOffset>
       <JapaneseText>だから、ずっと中にいるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's why I spend so much time here!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277016</PointerOffset>
       <JapaneseText>あ～すずしー。
 買うものは何もないけど
 お邪魔してるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aaah, how refreshing...
+There's nothing here I wanna buy,
+but I still just had to come in here!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277016</PointerOffset>
       <JapaneseText>外は暑いからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's just so hot outside!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277020</PointerOffset>
