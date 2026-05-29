@@ -135,12 +135,12 @@
       <PointerOffset>282752</PointerOffset>
       <JapaneseText>現在、こちらの教会で、
 確保しております</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is currently being held at the church.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282948</PointerOffset>
@@ -323,140 +323,152 @@
       <JapaneseText>マーテル様マーテル様、
 お母さんが私に新しいドレスを
 買ってくれますように</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady Martel, Lady Martel,
+I pray that my mom will buy me a
+new dress.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274760</PointerOffset>
       <JapaneseText>マーテル様はスゴイのよ、
 私のお願いをいつも
 叶えてくれるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady Martel is amazing - she always
+grants my wishes.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274764</PointerOffset>
       <JapaneseText>マーテル様、
 お祈り叶えてくれて
 ありがとう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady Martel, thank you for granting my wish.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274764</PointerOffset>
       <JapaneseText>だから今度も
 叶えてね∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So please make it happen again for this time
+too, 'kay?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274768</PointerOffset>
       <JapaneseText>マーテル様マーテル様、
 歌って踊れるステキな戦士に
 なれますように</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady Martel, Lady Martel,
+I pray I become a powerful warrior
+who can both sing and dance.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274768</PointerOffset>
       <JapaneseText>マーテル様は私の将来の夢も
 願えば叶えてくれるはず</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I make a wish, Lady Martel will surely make
+my dreams come true.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274772</PointerOffset>
       <JapaneseText>マーテル様、このお願い、
 必ず叶えてください！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady Martel, please make this wish come true!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274772</PointerOffset>
       <JapaneseText>叶えてくれたら、儲けたお金で
 この教会、新しく
 建て直してあげる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you make my wish come true, I'll use the
+money I make to rebuild this church from scratch!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274776</PointerOffset>
       <JapaneseText>マーテル様マーテル様、
 全世界の人々が
 平和で暮らせますように……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady Martel, Lady Martel,
+may all the people in the world
+live in peace...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274776</PointerOffset>
       <JapaneseText>あまり欲張るとよくないって
 &lt;Mint&gt;様から言われたから
 みんなの幸せをお祈りしたの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt; told me not to be too greedy, so I
+prayed for everyone's happiness instead.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274780</PointerOffset>
       <JapaneseText>あなたたちも
 ずっと幸せに暮らせますように</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hope everyone can live happily ever after.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274780</PointerOffset>
       <JapaneseText>……マーテル様、
 見ててくれますか？
 これで私のお願いも叶えてね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Lady Martel, are you watching?
+Will you grant my wish too?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -969,29 +981,30 @@
       <PointerOffset>283070</PointerOffset>
       <JapaneseText>え？
 あ、あの……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh?
+Umm, uhh...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283095</PointerOffset>
       <JapaneseText>あんまり無茶しないでよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't push yourself too hard, okay?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283127</PointerOffset>
       <JapaneseText>クル～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuru~</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>66</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283158</PointerOffset>
