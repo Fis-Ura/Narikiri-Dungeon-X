@@ -301,89 +301,94 @@
       <JapaneseText>今日の夕食はすき焼きじゃ。
 うちの嫁、
 いい牛肉を奮発してくれたかの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We'll be having sukiyaki for dinner
+tonight. My wife must've splurged on
+some top-notch cut of beef.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300344</PointerOffset>
       <JapaneseText>肉食いたいのぅ、肉</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really want some meat... meat...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300348</PointerOffset>
       <JapaneseText>ロースでもサーロインでも
 ヒレでも、ももでも
 なんでも来い！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whether it's ribeye, sirloin, filet,
+or round - bring it on!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300348</PointerOffset>
       <JapaneseText>まだまだ
 ワシの胃は若いぞぃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've still got a young stomach!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300348</PointerOffset>
       <JapaneseText>……でも、魚は嫌いじゃ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But I don't really like fish...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300352</PointerOffset>
       <JapaneseText>朝飯もメザシ、昼飯もメザシ、
 魚好きの嫁は魚ばっかり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's mackerel for breakfast, mackerel for lunch.
+My fish-loving wife serves nothing but fish.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300352</PointerOffset>
       <JapaneseText>癒されぬワシは今日も
 &lt;Mint&gt;様の下へ
 日参するのじゃ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>To satisfy my daily cravings, I head to
+Lady &lt;Mint&gt;'s place every day.</EnglishText>
+      <Notes>Want to double check if this is what he's saying.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300356</PointerOffset>
       <JapaneseText>&lt;Mint&gt;様は
 この村のアイドルじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady &lt;Mint&gt; truly is the sweetheart of this village.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300356</PointerOffset>

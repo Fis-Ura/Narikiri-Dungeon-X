@@ -119,280 +119,295 @@
       <PointerOffset>302132</PointerOffset>
       <JapaneseText>ここはもともと
 バークライトさんのお宅でした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This used to be Mr. Barklight's house.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302132</PointerOffset>
       <JapaneseText>壊れてたのを譲り受け、
 直して住まわせてもらっています</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I took it off his hands when it was destroyed,
+fixed it up, and now I live here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302136</PointerOffset>
       <JapaneseText>バークライトさんなら
 アルベイン流道場の方に
 移られましたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're looking for Mr. Barklight, he's moved into
+the Alvein Dojo.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302136</PointerOffset>
       <JapaneseText>もうお会いになりました？
 少しコワい人ですよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you met him yet?
+He's a bit of scary guy, isn't he?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302140</PointerOffset>
       <JapaneseText>私は、この村が
 住民募集をしていたので
 北の方から移り住んできました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I moved here from the north because this
+village was looking for new residents.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302140</PointerOffset>
       <JapaneseText>温かくて住みよい村で
 よかったです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm glad it's such a warm and pleasant village.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302144</PointerOffset>
       <JapaneseText>本当、この村でかかっていた
 住民募集に応じてよかったです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm really glad I answered the call for
+new residents when they did.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302144</PointerOffset>
       <JapaneseText>この手の募集って
 ウソくさいのが多いんです。
 天国に最も直近の村とか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A lot of these postings sound kinda fishy.
+Like, "the village closest ot heaven" stuff.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302148</PointerOffset>
       <JapaneseText>前はうちの妻は
 とてもきつい性格でした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My wife used to have a very sharp personality.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302148</PointerOffset>
       <JapaneseText>しかし、ここへ移り住んでから
 とても信じられないくらいに
 穏やかになってね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But ever since we've moved here, she's become
+so much calmer. It's almost hard to believe.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302152</PointerOffset>
       <JapaneseText>やっぱり環境が
 人の性格を形作るのですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems the enviornment really does shape
+our personalities.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302152</PointerOffset>
       <JapaneseText>私も昔のように
 イライラすることはなくなり
 とても楽です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't get irritated as much as I used to,
+and life is so much easier now.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302156</PointerOffset>
       <JapaneseText>あら、
 ゆっくりしていかれますか、こら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my, will you be staying here for a while?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302156</PointerOffset>
       <JapaneseText>お茶でも
 お出ししやがりましょうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Would you like me to pour you a cup of tea?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302160</PointerOffset>
       <JapaneseText>お茶菓子に
 甘いケーキでもいかが？
 な？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Would you like some sweet cake with your tea?
+How about it?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302160</PointerOffset>
       <JapaneseText>あら？　あっし、何か変ですか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my? Is there something wrong with me?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302164</PointerOffset>
       <JapaneseText>この街はとても
 いいところですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This town really is such a nice place,
+isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302164</PointerOffset>
       <JapaneseText>おまえらも住まわれては
 いかがですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why don't you all move in too?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302168</PointerOffset>
       <JapaneseText>南の森には精霊のヤツが
 お住まいになってやがる
 伝説がおありなのだそうですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've heard there's a legend about a spirit that
+lives in the forest south of here.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302168</PointerOffset>
       <JapaneseText>とても癒されます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's very soothing.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302172</PointerOffset>
       <JapaneseText>あら？
 またいらっしゃりやがりましたね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my? You've returned, haven't you?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302172</PointerOffset>
       <JapaneseText>お茶をお飲みになるでしょ？
 なりますよね？
 飲めよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You'll be having some tea, won't you?
+You will, right?
+Go ahead and drink some.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302172</PointerOffset>
       <JapaneseText>……あら、やだ、あっしったら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Oh my, how embarrasing of me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302176</PointerOffset>
       <JapaneseText>ついつい昔の口癖が
 出てしまいやがりますわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I just can't help slipping into my old
+ways of speaking.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302176</PointerOffset>
       <JapaneseText>ゴメンあそばせって</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>My apologies for the trouble.</EnglishText>
+      <Notes>May need better understanding of how she speaks here.</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>
