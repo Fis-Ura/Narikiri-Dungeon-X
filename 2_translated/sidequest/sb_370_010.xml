@@ -51,7 +51,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274165</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -59,7 +59,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274206</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -67,7 +67,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274232,274470,274535,274571,274642,274708,274747,274823,274894,274960,274971,275089,275175,275256,275332,275403,275469,275480,275649,275682,275693,275808,275918,275929,276056,276099,276284,277048,277059,277214,277322,277496,277572,277670,277776,277842,277895,278009,278206,278448,278513,278578,278643,279317,279658,279859</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -75,7 +75,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276169,276617,278300,278354,278410,278708,278756,278804,278858,278918,278972,279026,279129,279187</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -83,7 +83,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276671</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -97,12 +97,11 @@
       <PointerOffset>280112</PointerOffset>
       <JapaneseText>ちょっと
 待っていてくれ……</JapaneseText>
-      <EnglishText>Wait here
-a moment...</EnglishText>
+      <EnglishText>Wait here a moment...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280172</PointerOffset>
@@ -111,7 +110,7 @@ a moment...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280280</PointerOffset>
@@ -123,7 +122,7 @@ back to my own house?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280280</PointerOffset>
@@ -135,18 +134,18 @@ I put that thing?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280348</PointerOffset>
       <JapaneseText>あれ？　ああ、あれ？
 何するの？</JapaneseText>
-      <EnglishText>That thing? Ohh, that thing?
+      <EnglishText>That thing? Oh, *that* thing?
 What do you need it for?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280424</PointerOffset>
@@ -157,18 +156,18 @@ lending it to those kids.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280508</PointerOffset>
       <JapaneseText>あれなら、あなたが
 そこの棚にしまってたでしょ</JapaneseText>
       <EnglishText>Well, you put that one
-in on the shelf over there.</EnglishText>
+on the shelf over there.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280588</PointerOffset>
@@ -179,7 +178,7 @@ memory's been pretty bad lately.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280676</PointerOffset>
@@ -190,7 +189,7 @@ very useful on its own.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280732</PointerOffset>
@@ -199,7 +198,7 @@ very useful on its own.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280804</PointerOffset>
@@ -210,7 +209,7 @@ What're they talking about?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280848</PointerOffset>
@@ -219,7 +218,7 @@ What're they talking about?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280948</PointerOffset>
@@ -231,7 +230,7 @@ Mirald knew what he meant...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280992</PointerOffset>
@@ -240,7 +239,7 @@ Mirald knew what he meant...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>14</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281048</PointerOffset>
@@ -249,7 +248,7 @@ Mirald knew what he meant...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281108</PointerOffset>
@@ -258,7 +257,7 @@ Mirald knew what he meant...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281184</PointerOffset>
@@ -270,7 +269,7 @@ it, as you are now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281260</PointerOffset>
@@ -281,7 +280,7 @@ really valuable...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281352</PointerOffset>
@@ -292,20 +291,19 @@ Since the dwarfs made it and all.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281440</PointerOffset>
       <JapaneseText>ドワーフって、今は
 どこかにいなくなった
 ヤツらだよな？</JapaneseText>
-      <EnglishText>The dwarfs? Aren't
-they those guys who
-kind of just vanished?</EnglishText>
+      <EnglishText>The dwarfs? Aren't they those
+guys who kind of just vanished?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281532</PointerOffset>
@@ -313,12 +311,12 @@ kind of just vanished?</EnglishText>
 彼らがいない限りは
 ２度と作られることはない</JapaneseText>
       <EnglishText>Right. And if they're not
-around, no one can
-make more of the rings.</EnglishText>
+around, no one can make
+more of the rings.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281604</PointerOffset>
@@ -329,7 +327,7 @@ You said we couldn't have it before...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281712</PointerOffset>
@@ -342,7 +340,7 @@ of kids I've never met before.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281800</PointerOffset>
@@ -353,7 +351,7 @@ you didn't trust us?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281844</PointerOffset>
@@ -362,7 +360,7 @@ you didn't trust us?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281936</PointerOffset>
@@ -370,39 +368,39 @@ you didn't trust us?</EnglishText>
 ふたりに貸してくれる
 ってことは……</JapaneseText>
       <EnglishText>But, if you're lending
-something precious
-to the two of them now...</EnglishText>
+something precious to
+the two of them now...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282084</PointerOffset>
       <JapaneseText>ああ。君たちは
 これを使うに値する
 実力をつけてきてる</JapaneseText>
-      <EnglishText>Yeah. You're strong
-enough to use them now.</EnglishText>
+      <EnglishText>Yeah. You're strong enough
+to use them now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282084</PointerOffset>
       <JapaneseText>これを使えば、
 精霊との契約ができて、
 精霊使いにもなれるぞ</JapaneseText>
-      <EnglishText>If you use this, you can
-make a pact with the spirits
-and use them in battle.</EnglishText>
+      <EnglishText>If you use this, you can make
+a pact with the spirits and
+use them in battle.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282144</PointerOffset>
@@ -413,7 +411,7 @@ sure it's okay?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282236</PointerOffset>
@@ -424,7 +422,7 @@ your travels, you have to return it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282284</PointerOffset>
@@ -433,7 +431,7 @@ your travels, you have to return it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>31</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282352</PointerOffset>
@@ -443,7 +441,7 @@ your travels, you have to return it.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282400</PointerOffset>
@@ -452,7 +450,7 @@ your travels, you have to return it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>33</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282548</PointerOffset>
@@ -463,7 +461,7 @@ see some spirits!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282756</PointerOffset>
@@ -473,21 +471,20 @@ see some spirits!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282756</PointerOffset>
       <JapaneseText>今、私が
 君たちに渡した指輪は
 ガーネットだ</JapaneseText>
-      <EnglishText>The ring I just
-gave you is
-the Garnet Ring.</EnglishText>
+      <EnglishText>The ring I just gave you
+is the Garnet Ring.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282756</PointerOffset>
@@ -499,19 +496,20 @@ only make a pact with Efreet.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282756</PointerOffset>
       <JapaneseText>ノームとの契約にはルビーが、
 シルフとならオパールが必要だ</JapaneseText>
-      <EnglishText>For a pact with Gnome, you'll need Ruby.
-For a pact with Sylph, you'll need Opal.</EnglishText>
+      <EnglishText>For a pact with Gnome, you'll need
+the Ruby Ring. For a pact with
+Sylph, you'll need the Opal Ring.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
       <BubbleId>3</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282860</PointerOffset>
@@ -523,7 +521,7 @@ requires its own individual ring, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282972</PointerOffset>
@@ -533,7 +531,7 @@ requires its own individual ring, right?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282972</PointerOffset>
@@ -546,18 +544,18 @@ has a pact with Efreet.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283056</PointerOffset>
       <JapaneseText>それじゃあ、イフリートは
 もう召喚できるわけですね</JapaneseText>
       <EnglishText>Then, we can already
-summon  Efreet</EnglishText>
+summon Efreet.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>42</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283116</PointerOffset>
@@ -566,7 +564,7 @@ summon  Efreet</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>43</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283260</PointerOffset>
@@ -580,7 +578,7 @@ where they belonged.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283260</PointerOffset>
@@ -594,7 +592,7 @@ with specially-made locks.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283320</PointerOffset>
@@ -604,7 +602,7 @@ with specially-made locks.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283372</PointerOffset>
@@ -613,7 +611,7 @@ with specially-made locks.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>47</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283420</PointerOffset>
@@ -622,7 +620,7 @@ with specially-made locks.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>48</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283468</PointerOffset>
@@ -631,7 +629,7 @@ with specially-made locks.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>49</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283544</PointerOffset>
@@ -644,7 +642,7 @@ memories with age...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>50</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283680</PointerOffset>
@@ -656,7 +654,7 @@ younger than I am!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>51</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283680</PointerOffset>
@@ -668,7 +666,7 @@ we'll have to look for them.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>51</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283680</PointerOffset>
@@ -678,7 +676,7 @@ we'll have to look for them.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>51</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283756</PointerOffset>
@@ -689,16 +687,17 @@ need to look, right?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283816</PointerOffset>
       <JapaneseText>君は宝探し気分なんでしょ</JapaneseText>
-      <EnglishText>You just want a treasure hunt, don't you?</EnglishText>
+      <EnglishText>You just want a treasure
+hunt, don't you?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>55</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283868</PointerOffset>
@@ -707,7 +706,7 @@ need to look, right?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>56</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284100</PointerOffset>
@@ -719,19 +718,20 @@ need to recover the key.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>57</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284100</PointerOffset>
       <JapaneseText>指輪を収めた宝箱に
 かけた錠を開くカギだ</JapaneseText>
-      <EnglishText>It's the only key that can open the locks
-on the treasure chests the rings are in.</EnglishText>
+      <EnglishText>It's the only key that can open
+the locks on the treasure chests
+the rings are in.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284100</PointerOffset>
@@ -743,7 +743,7 @@ Sands&lt;White&gt;, so let's go retrieve it.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>57</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284100</PointerOffset>
@@ -757,13 +757,13 @@ spirits, make sure to bring me with you.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>57</Id>
       <BubbleId>3</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>274194</PointerOffset>
+      <PointerOffset>84476</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -771,7 +771,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274213</PointerOffset>
+      <PointerOffset>86036</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -779,7 +779,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274243</PointerOffset>
+      <PointerOffset>90680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -787,7 +787,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274448</PointerOffset>
+      <PointerOffset>92500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -795,7 +795,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274481</PointerOffset>
+      <PointerOffset>92768</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -803,7 +803,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274546</PointerOffset>
+      <PointerOffset>93940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -811,7 +811,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274582</PointerOffset>
+      <PointerOffset>94244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -819,7 +819,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274653</PointerOffset>
+      <PointerOffset>94592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -827,7 +827,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274719</PointerOffset>
+      <PointerOffset>95912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -835,7 +835,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274758</PointerOffset>
+      <PointerOffset>96252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -843,7 +843,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274834</PointerOffset>
+      <PointerOffset>96664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -851,7 +851,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274905</PointerOffset>
+      <PointerOffset>97012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -859,7 +859,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274982</PointerOffset>
+      <PointerOffset>98416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -867,7 +867,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275009</PointerOffset>
+      <PointerOffset>98636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -875,7 +875,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275100</PointerOffset>
+      <PointerOffset>99240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -883,7 +883,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275186</PointerOffset>
+      <PointerOffset>99780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -891,7 +891,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275267</PointerOffset>
+      <PointerOffset>100256</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -899,7 +899,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275343</PointerOffset>
+      <PointerOffset>100668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -907,7 +907,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275414</PointerOffset>
+      <PointerOffset>101016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -915,7 +915,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275491</PointerOffset>
+      <PointerOffset>101424</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -923,7 +923,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275627</PointerOffset>
+      <PointerOffset>101808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -931,7 +931,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275660</PointerOffset>
+      <PointerOffset>102832</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -939,7 +939,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275704</PointerOffset>
+      <PointerOffset>103248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -947,7 +947,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275819</PointerOffset>
+      <PointerOffset>105840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -955,7 +955,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275890</PointerOffset>
+      <PointerOffset>108368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -963,7 +963,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275940</PointerOffset>
+      <PointerOffset>108816</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -971,7 +971,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276067</PointerOffset>
+      <PointerOffset>111968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -979,7 +979,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276110</PointerOffset>
+      <PointerOffset>113916</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -987,7 +987,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276129</PointerOffset>
+      <PointerOffset>114720</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -995,7 +995,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276259</PointerOffset>
+      <PointerOffset>116180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1003,7 +1003,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276629</PointerOffset>
+      <PointerOffset>132160</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1011,7 +1011,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276682</PointerOffset>
+      <PointerOffset>132352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1019,7 +1019,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276994</PointerOffset>
+      <PointerOffset>150508</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1027,7 +1027,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277070</PointerOffset>
+      <PointerOffset>150868</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1035,7 +1035,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277225</PointerOffset>
+      <PointerOffset>159952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1043,7 +1043,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277333</PointerOffset>
+      <PointerOffset>168696</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1051,7 +1051,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277507</PointerOffset>
+      <PointerOffset>171320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1059,7 +1059,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277583</PointerOffset>
+      <PointerOffset>171844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1067,7 +1067,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277681</PointerOffset>
+      <PointerOffset>173548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1075,7 +1075,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277787</PointerOffset>
+      <PointerOffset>177556</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1083,7 +1083,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277853</PointerOffset>
+      <PointerOffset>182752</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1091,7 +1091,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277906</PointerOffset>
+      <PointerOffset>186208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1099,7 +1099,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278020</PointerOffset>
+      <PointerOffset>199368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1107,7 +1107,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278217</PointerOffset>
+      <PointerOffset>202064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1115,7 +1115,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278267</PointerOffset>
+      <PointerOffset>211548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1123,7 +1123,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278312</PointerOffset>
+      <PointerOffset>215528</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1131,7 +1131,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278366</PointerOffset>
+      <PointerOffset>217352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1139,7 +1139,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278459</PointerOffset>
+      <PointerOffset>220356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1147,7 +1147,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278524</PointerOffset>
+      <PointerOffset>220960</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1155,7 +1155,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278589</PointerOffset>
+      <PointerOffset>221612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1163,7 +1163,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278654</PointerOffset>
+      <PointerOffset>222216</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1171,7 +1171,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278720</PointerOffset>
+      <PointerOffset>227180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1179,7 +1179,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278768</PointerOffset>
+      <PointerOffset>232972</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1187,7 +1187,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278816</PointerOffset>
+      <PointerOffset>233284</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1195,7 +1195,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278870</PointerOffset>
+      <PointerOffset>233820</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1203,7 +1203,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278930</PointerOffset>
+      <PointerOffset>234288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1211,7 +1211,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278984</PointerOffset>
+      <PointerOffset>234688</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1219,7 +1219,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279038</PointerOffset>
+      <PointerOffset>235156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1227,7 +1227,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279141</PointerOffset>
+      <PointerOffset>249532</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1235,7 +1235,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279199</PointerOffset>
+      <PointerOffset>249700</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1243,7 +1243,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279328</PointerOffset>
+      <PointerOffset>253948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1251,7 +1251,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279669</PointerOffset>
+      <PointerOffset>256140</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1259,7 +1259,7 @@ spirits, make sure to bring me with you.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279870</PointerOffset>
+      <PointerOffset>256308</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

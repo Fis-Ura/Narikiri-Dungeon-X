@@ -27,7 +27,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>285953</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -35,7 +35,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>285994</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -43,7 +43,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>286020,286258,286323,286359,286430,286496,286535,286611,286682,286748,286759,286877,286963,287044,287120,287191,287257,287268,287437,287470,287481,287596,287706,287717,287844,287887,288072,288836,288847,289002,289110,289284,289360,289458,289564,289630,289683,289797,289994,290236,290301,290366,290431,291105,291446,291647</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -51,7 +51,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>287957,288405,290088,290142,290198,290496,290544,290592,290646,290706,290760,290814,290917,290975</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -59,7 +59,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>288459</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -84,7 +84,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291964</PointerOffset>
@@ -95,7 +95,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292012</PointerOffset>
@@ -104,18 +104,17 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292140</PointerOffset>
       <JapaneseText>ヴォルト！
 オレらに力を貸してくれ！</JapaneseText>
-      <EnglishText>Volt! Lend
-us your power!</EnglishText>
+      <EnglishText>Volt! Lend us your power!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292192</PointerOffset>
@@ -124,18 +123,18 @@ us your power!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292268</PointerOffset>
       <JapaneseText>えっと……
 契約、してくれるんだよね……</JapaneseText>
-      <EnglishText>Um... He'll form a
-pact with us, I think...</EnglishText>
+      <EnglishText>Um... He'll form a pact
+with us, I think...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292392</PointerOffset>
@@ -147,19 +146,19 @@ to the Spirit of Lightning.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292392</PointerOffset>
       <JapaneseText>指輪の盟約のもと、
 我に精霊を従わせたまえ</JapaneseText>
-      <EnglishText>By covenant of the ring, my this
-spirit obey me.</EnglishText>
+      <EnglishText>By covenant of the ring,
+may this spirit obey me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292392</PointerOffset>
@@ -169,7 +168,7 @@ spirit obey me.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292440</PointerOffset>
@@ -178,7 +177,7 @@ spirit obey me.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292580</PointerOffset>
@@ -187,7 +186,7 @@ spirit obey me.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292664</PointerOffset>
@@ -195,18 +194,18 @@ spirit obey me.</EnglishText>
 ないとダメ、みたい……
 だね</JapaneseText>
       <EnglishText>Um... I think we can't,
-because we don't
-have the pact ring...</EnglishText>
+because we don't have
+the pact ring...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>285982</PointerOffset>
+      <PointerOffset>84476</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -214,7 +213,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286001</PointerOffset>
+      <PointerOffset>86036</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -222,7 +221,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286031</PointerOffset>
+      <PointerOffset>90680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -230,7 +229,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286236</PointerOffset>
+      <PointerOffset>92500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -238,7 +237,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286269</PointerOffset>
+      <PointerOffset>92768</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -246,7 +245,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286334</PointerOffset>
+      <PointerOffset>93940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -254,7 +253,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286370</PointerOffset>
+      <PointerOffset>94244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -262,7 +261,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286441</PointerOffset>
+      <PointerOffset>94592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -270,7 +269,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286507</PointerOffset>
+      <PointerOffset>95912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -278,7 +277,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286546</PointerOffset>
+      <PointerOffset>96252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -286,7 +285,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286622</PointerOffset>
+      <PointerOffset>96664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -294,7 +293,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286693</PointerOffset>
+      <PointerOffset>97012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -302,7 +301,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286770</PointerOffset>
+      <PointerOffset>98416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -310,7 +309,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286797</PointerOffset>
+      <PointerOffset>98636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -318,7 +317,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286888</PointerOffset>
+      <PointerOffset>99240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -326,7 +325,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286974</PointerOffset>
+      <PointerOffset>99780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -334,7 +333,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287055</PointerOffset>
+      <PointerOffset>100256</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -342,7 +341,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287131</PointerOffset>
+      <PointerOffset>100668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -350,7 +349,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287202</PointerOffset>
+      <PointerOffset>101016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -358,7 +357,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287279</PointerOffset>
+      <PointerOffset>101424</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -366,7 +365,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287415</PointerOffset>
+      <PointerOffset>101808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -374,7 +373,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287448</PointerOffset>
+      <PointerOffset>102832</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -382,7 +381,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287492</PointerOffset>
+      <PointerOffset>103248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -390,7 +389,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287607</PointerOffset>
+      <PointerOffset>105840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -398,7 +397,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287678</PointerOffset>
+      <PointerOffset>108368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -406,7 +405,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287728</PointerOffset>
+      <PointerOffset>108816</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -414,7 +413,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287855</PointerOffset>
+      <PointerOffset>111968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -422,7 +421,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287898</PointerOffset>
+      <PointerOffset>113916</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -430,7 +429,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287917</PointerOffset>
+      <PointerOffset>114720</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -438,7 +437,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>288047</PointerOffset>
+      <PointerOffset>116180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -446,7 +445,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>288417</PointerOffset>
+      <PointerOffset>132160</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -454,7 +453,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>288470</PointerOffset>
+      <PointerOffset>132352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -462,7 +461,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>288782</PointerOffset>
+      <PointerOffset>150508</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -470,7 +469,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>288858</PointerOffset>
+      <PointerOffset>150868</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -478,7 +477,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289013</PointerOffset>
+      <PointerOffset>159952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -486,7 +485,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289121</PointerOffset>
+      <PointerOffset>168696</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -494,7 +493,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289295</PointerOffset>
+      <PointerOffset>171320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -502,7 +501,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289371</PointerOffset>
+      <PointerOffset>171844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -510,7 +509,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289469</PointerOffset>
+      <PointerOffset>173548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -518,7 +517,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289575</PointerOffset>
+      <PointerOffset>177556</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -526,7 +525,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289641</PointerOffset>
+      <PointerOffset>182752</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -534,7 +533,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289694</PointerOffset>
+      <PointerOffset>186208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -542,7 +541,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>289808</PointerOffset>
+      <PointerOffset>199368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -550,7 +549,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290005</PointerOffset>
+      <PointerOffset>202064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -558,7 +557,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290055</PointerOffset>
+      <PointerOffset>211548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -566,7 +565,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290100</PointerOffset>
+      <PointerOffset>215528</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -574,7 +573,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290154</PointerOffset>
+      <PointerOffset>217352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -582,7 +581,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290247</PointerOffset>
+      <PointerOffset>220356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -590,7 +589,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290312</PointerOffset>
+      <PointerOffset>220960</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -598,7 +597,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290377</PointerOffset>
+      <PointerOffset>221612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -606,7 +605,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290442</PointerOffset>
+      <PointerOffset>222216</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -614,7 +613,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290508</PointerOffset>
+      <PointerOffset>227180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -622,7 +621,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290556</PointerOffset>
+      <PointerOffset>232972</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -630,7 +629,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290604</PointerOffset>
+      <PointerOffset>233284</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -638,7 +637,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290658</PointerOffset>
+      <PointerOffset>233820</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -646,7 +645,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290718</PointerOffset>
+      <PointerOffset>234288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -654,7 +653,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290772</PointerOffset>
+      <PointerOffset>234688</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -662,7 +661,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290826</PointerOffset>
+      <PointerOffset>235156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -670,7 +669,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290929</PointerOffset>
+      <PointerOffset>249532</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -678,7 +677,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290987</PointerOffset>
+      <PointerOffset>249700</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -686,7 +685,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291116</PointerOffset>
+      <PointerOffset>253948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -694,7 +693,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291457</PointerOffset>
+      <PointerOffset>256140</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -702,7 +701,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291658</PointerOffset>
+      <PointerOffset>256308</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -710,7 +709,7 @@ have the pact ring...</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293005</PointerOffset>
+      <PointerOffset>278136</PointerOffset>
       <JapaneseText>もう一度戦う
 契約をする
 やめる</JapaneseText>
@@ -720,10 +719,10 @@ Nevermind</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>64</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293051</PointerOffset>
+      <PointerOffset>278656</PointerOffset>
       <JapaneseText>もう一度戦う
 やめる</JapaneseText>
       <EnglishText>Challenge to a fight
@@ -731,7 +730,7 @@ Nevermind</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>65</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

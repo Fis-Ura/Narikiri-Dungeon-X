@@ -27,7 +27,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>289953</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -35,7 +35,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>289994</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -43,7 +43,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>290020,290258,290323,290359,290430,290496,290535,290611,290682,290748,290759,290877,290963,291044,291120,291191,291257,291268,291437,291470,291481,291596,291706,291717,291844,291887,292072,292836,292847,293002,293110,293284,293360,293458,293564,293630,293683,293797,293994,294236,294301,294366,294431,295105,295446,295647</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -51,7 +51,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>291957,292405,294088,294142,294198,294496,294544,294592,294646,294706,294760,294814,294917,294975</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -59,7 +59,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>292459</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -84,27 +84,27 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>295960</PointerOffset>
       <JapaneseText>確か&lt;Cless&gt;さんに
 捕まってたんだよね？</JapaneseText>
-      <EnglishText>You were captured
-by &lt;Cless&gt;, weren't you?</EnglishText>
+      <EnglishText>You were captured by
+&lt;Cless&gt;, weren't you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296020</PointerOffset>
       <JapaneseText>ああ、でも逃げたって……</JapaneseText>
-      <EnglishText>Yeah, but I escaped...</EnglishText>
-      <Notes/>
+      <EnglishText>Yeah, but he escaped...</EnglishText>
+      <Notes>previously said "I escaped", which doesn't make sense in context. -dragon</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>296136</PointerOffset>
@@ -118,7 +118,7 @@ know, it's the brats from back then.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296136</PointerOffset>
@@ -128,7 +128,7 @@ know, it's the brats from back then.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296220</PointerOffset>
@@ -139,7 +139,7 @@ to capture me?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296332</PointerOffset>
@@ -153,7 +153,7 @@ try to capture me?</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296332</PointerOffset>
@@ -163,7 +163,7 @@ try to capture me?</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296456</PointerOffset>
@@ -174,7 +174,7 @@ try to capture me?</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296456</PointerOffset>
@@ -187,7 +187,7 @@ gettin' caught...</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296508</PointerOffset>
@@ -196,18 +196,17 @@ gettin' caught...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296576</PointerOffset>
       <JapaneseText>……森の中に
 逃げられちゃったよ</JapaneseText>
-      <EnglishText>...He ran into
-the woods.</EnglishText>
+      <EnglishText>...He ran into the woods.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296756</PointerOffset>
@@ -218,7 +217,7 @@ us your power.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296928</PointerOffset>
@@ -232,7 +231,7 @@ So you've got one, huh.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296928</PointerOffset>
@@ -242,7 +241,7 @@ So you've got one, huh.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296928</PointerOffset>
@@ -256,7 +255,7 @@ to beat me first!</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>296984</PointerOffset>
@@ -265,19 +264,19 @@ to beat me first!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297120</PointerOffset>
       <JapaneseText>我、今、魔界の者に
 ねがいたてまつる</JapaneseText>
-      <EnglishText>Here and now, I offer my request
-to this Daemon.</EnglishText>
+      <EnglishText>Here and now, I offer my
+request to this Daemon.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297120</PointerOffset>
@@ -289,7 +288,7 @@ may they obey me.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297120</PointerOffset>
@@ -299,7 +298,7 @@ may they obey me.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297184</PointerOffset>
@@ -308,7 +307,7 @@ may they obey me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297412</PointerOffset>
@@ -322,7 +321,7 @@ a Sapphire? No way.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297412</PointerOffset>
@@ -334,7 +333,7 @@ even if you had one.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297532</PointerOffset>
@@ -346,7 +345,7 @@ with some powerless brats.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>297532</PointerOffset>
@@ -358,13 +357,13 @@ a Fallen Wizard.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>289982</PointerOffset>
+      <PointerOffset>84476</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -372,7 +371,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290001</PointerOffset>
+      <PointerOffset>86036</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -380,7 +379,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290031</PointerOffset>
+      <PointerOffset>90680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -388,7 +387,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290236</PointerOffset>
+      <PointerOffset>92500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -396,7 +395,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290269</PointerOffset>
+      <PointerOffset>92768</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -404,7 +403,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290334</PointerOffset>
+      <PointerOffset>93940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -412,7 +411,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290370</PointerOffset>
+      <PointerOffset>94244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -420,7 +419,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290441</PointerOffset>
+      <PointerOffset>94592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -428,7 +427,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290507</PointerOffset>
+      <PointerOffset>95912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -436,7 +435,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290546</PointerOffset>
+      <PointerOffset>96252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -444,7 +443,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290622</PointerOffset>
+      <PointerOffset>96664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -452,7 +451,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290693</PointerOffset>
+      <PointerOffset>97012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -460,7 +459,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290770</PointerOffset>
+      <PointerOffset>98416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -468,7 +467,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290797</PointerOffset>
+      <PointerOffset>98636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -476,7 +475,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290888</PointerOffset>
+      <PointerOffset>99240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -484,7 +483,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>290974</PointerOffset>
+      <PointerOffset>99780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -492,7 +491,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291055</PointerOffset>
+      <PointerOffset>100256</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -500,7 +499,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291131</PointerOffset>
+      <PointerOffset>100668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -508,7 +507,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291202</PointerOffset>
+      <PointerOffset>101016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -516,7 +515,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291279</PointerOffset>
+      <PointerOffset>101424</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -524,7 +523,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291415</PointerOffset>
+      <PointerOffset>101808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -532,7 +531,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291448</PointerOffset>
+      <PointerOffset>102832</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -540,7 +539,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291492</PointerOffset>
+      <PointerOffset>103248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -548,7 +547,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291607</PointerOffset>
+      <PointerOffset>105840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -556,7 +555,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291678</PointerOffset>
+      <PointerOffset>108368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -564,7 +563,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291728</PointerOffset>
+      <PointerOffset>108816</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -572,7 +571,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291855</PointerOffset>
+      <PointerOffset>111968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -580,7 +579,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291898</PointerOffset>
+      <PointerOffset>113916</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -588,7 +587,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>291917</PointerOffset>
+      <PointerOffset>114720</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -596,7 +595,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>292047</PointerOffset>
+      <PointerOffset>116180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -604,7 +603,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>292417</PointerOffset>
+      <PointerOffset>132160</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -612,7 +611,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>292470</PointerOffset>
+      <PointerOffset>132352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -620,7 +619,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>292782</PointerOffset>
+      <PointerOffset>150508</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -628,7 +627,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>292858</PointerOffset>
+      <PointerOffset>150868</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -636,7 +635,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293013</PointerOffset>
+      <PointerOffset>159952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -644,7 +643,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293121</PointerOffset>
+      <PointerOffset>168696</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -652,7 +651,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293295</PointerOffset>
+      <PointerOffset>171320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -660,7 +659,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293371</PointerOffset>
+      <PointerOffset>171844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -668,7 +667,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293469</PointerOffset>
+      <PointerOffset>173548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -676,7 +675,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293575</PointerOffset>
+      <PointerOffset>177556</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -684,7 +683,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293641</PointerOffset>
+      <PointerOffset>182752</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -692,7 +691,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293694</PointerOffset>
+      <PointerOffset>186208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -700,7 +699,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293808</PointerOffset>
+      <PointerOffset>199368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -708,7 +707,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294005</PointerOffset>
+      <PointerOffset>202064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -716,7 +715,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294055</PointerOffset>
+      <PointerOffset>211548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -724,7 +723,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294100</PointerOffset>
+      <PointerOffset>215528</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -732,7 +731,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294154</PointerOffset>
+      <PointerOffset>217352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -740,7 +739,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294247</PointerOffset>
+      <PointerOffset>220356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -748,7 +747,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294312</PointerOffset>
+      <PointerOffset>220960</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -756,7 +755,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294377</PointerOffset>
+      <PointerOffset>221612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -764,7 +763,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294442</PointerOffset>
+      <PointerOffset>222216</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -772,7 +771,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294508</PointerOffset>
+      <PointerOffset>227180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -780,7 +779,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294556</PointerOffset>
+      <PointerOffset>232972</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -788,7 +787,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294604</PointerOffset>
+      <PointerOffset>233284</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -796,7 +795,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294658</PointerOffset>
+      <PointerOffset>233820</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -804,7 +803,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294718</PointerOffset>
+      <PointerOffset>234288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -812,7 +811,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294772</PointerOffset>
+      <PointerOffset>234688</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -820,7 +819,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294826</PointerOffset>
+      <PointerOffset>235156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -828,7 +827,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294929</PointerOffset>
+      <PointerOffset>249532</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -836,7 +835,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>294987</PointerOffset>
+      <PointerOffset>249700</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -844,7 +843,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>295116</PointerOffset>
+      <PointerOffset>253948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -852,7 +851,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>295457</PointerOffset>
+      <PointerOffset>256140</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -860,7 +859,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>295658</PointerOffset>
+      <PointerOffset>256308</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -868,7 +867,7 @@ a Fallen Wizard.</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>297876</PointerOffset>
+      <PointerOffset>279296</PointerOffset>
       <JapaneseText>もう一度戦う
 契約をする
 やめる</JapaneseText>
@@ -878,10 +877,10 @@ Nevermind</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>64</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>297930</PointerOffset>
+      <PointerOffset>279816</PointerOffset>
       <JapaneseText>もう一度戦う
 やめる</JapaneseText>
       <EnglishText>Challenge to a fight
@@ -889,7 +888,7 @@ Nevermind</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>65</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

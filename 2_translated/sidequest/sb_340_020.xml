@@ -91,7 +91,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>279645</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -99,7 +99,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>279686</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -107,7 +107,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>279712,279950,280015,280051,280122,280188,280227,280303,280374,280440,280451,280569,280655,280736,280812,280883,280949,280960,281129,281162,281173,281288,281398,281409,281536,281579,281764,282528,282539,282694,282802,282976,283052,283150,283256,283322,283375,283489,283686,283928,283993,284058,284123,284797,285138,285339</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -115,7 +115,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281649,282097,283780,283834,283890,284188,284236,284284,284338,284398,284452,284506,284609,284667</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -123,7 +123,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>282151</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -153,33 +153,33 @@ newcomer!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>285692</PointerOffset>
       <JapaneseText>挑戦者がやって来た！
 不敵なその面構えはただ単に
 緊張しているだけなのかっ！？</JapaneseText>
-      <EnglishText>A new challenger approaches! They bear
-a dauntless countenance, but could it be
-that their face is simply paralyzed with fear!?</EnglishText>
+      <EnglishText>A new challenger approaches! They bear a
+dauntless countenance, but could it be that
+their face is simply paralyzed with fear!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>285804</PointerOffset>
       <JapaneseText>挑戦者は&lt;Dio&gt;！
 やんちゃ盛りの１３歳……</JapaneseText>
-      <EnglishText>Our challenger, &lt;Dio&gt;! He's
-a rough and wild 13-year-old...</EnglishText>
+      <EnglishText>Our challenger, &lt;Dio&gt;! He's a
+rough and wild 13-year-old...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>285804</PointerOffset>
@@ -189,7 +189,7 @@ a rough and wild 13-year-old...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>285880</PointerOffset>
@@ -200,7 +200,7 @@ and you'll be in for a world of hurt.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>285980</PointerOffset>
@@ -213,7 +213,7 @@ repartee can carry him!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286124</PointerOffset>
@@ -227,7 +227,7 @@ a mere 13-year-old girl!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286124</PointerOffset>
@@ -239,7 +239,7 @@ with that tiny body of yours?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286172</PointerOffset>
@@ -248,7 +248,7 @@ with that tiny body of yours?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286272</PointerOffset>
@@ -261,7 +261,7 @@ I hope you'll go far!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286408</PointerOffset>
@@ -273,7 +273,7 @@ E. Eiffel... Epipen...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286408</PointerOffset>
@@ -285,7 +285,7 @@ the extremely difficult name!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286480</PointerOffset>
@@ -296,7 +296,7 @@ the introduction I expected.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286592</PointerOffset>
@@ -309,7 +309,7 @@ charms can carry her!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286724</PointerOffset>
@@ -321,7 +321,7 @@ Huh? Isn't this just an animal?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286724</PointerOffset>
@@ -333,7 +333,7 @@ yourself and take responsibility!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286772</PointerOffset>
@@ -342,7 +342,7 @@ yourself and take responsibility!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286876</PointerOffset>
@@ -355,7 +355,7 @@ spirit! I respect it, and I'll allow it!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286920</PointerOffset>
@@ -364,35 +364,35 @@ spirit! I respect it, and I'll allow it!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287092</PointerOffset>
       <JapaneseText>挑戦者は&lt;Cless&gt;・アルベイン！
 なんと、あの英雄、
 時空戦士筆頭でもあります！</JapaneseText>
-      <EnglishText>Our challenger, &lt;Cless&gt; Albane!
+      <EnglishText>Our challenger, &lt;Cless&gt; Alvein!
 Incredibly, it's that great warrior,
 the leader of the Heroes of Time!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287092</PointerOffset>
       <JapaneseText>この闘技場でも
 大活躍を見せたことが
 あるのだそうです！</JapaneseText>
-      <EnglishText>He's even accomplished
-a few feats in the very
+      <EnglishText>He's even accomplished a
+few feats in the very
 arena he stands in today!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287152</PointerOffset>
@@ -401,7 +401,7 @@ arena he stands in today!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>22</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287256</PointerOffset>
@@ -414,21 +414,21 @@ hero handle it, &lt;Cless&gt;!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287448</PointerOffset>
       <JapaneseText>挑戦者は&lt;Mint&gt;・アドネード。
 ダオス戦役では法術師として
 戦いをサポートしました</JapaneseText>
-      <EnglishText>Our challenger, &lt;Mint&gt; Adenade.
+      <EnglishText>Our challenger, &lt;Mint&gt; Adnade.
 As a cleric, she played a supporting
 role in the battle against Dhaos.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287448</PointerOffset>
@@ -442,7 +442,7 @@ but how are you feeling today!?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287520</PointerOffset>
@@ -455,7 +455,7 @@ best, at the least.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>26</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287632</PointerOffset>
@@ -469,7 +469,7 @@ she leaves such an impression!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287632</PointerOffset>
@@ -479,18 +479,18 @@ she leaves such an impression!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287764</PointerOffset>
       <JapaneseText>挑戦者は&lt;Chester&gt;・
 バークライト！</JapaneseText>
-      <EnglishText>Our challenger, &lt;Chester&gt; Burklight!</EnglishText>
+      <EnglishText>Our challenger, &lt;Chester&gt; Barklight!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287764</PointerOffset>
@@ -504,7 +504,7 @@ the weakest impression!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287812</PointerOffset>
@@ -513,7 +513,7 @@ the weakest impression!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>31</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287920</PointerOffset>
@@ -521,40 +521,40 @@ the weakest impression!</EnglishText>
 ここでそのできるところを
 見せてほしいところ！</JapaneseText>
       <EnglishText>And yet, for that very reason,
-we'd love to see what
-you can do here today!</EnglishText>
+we'd love to see what you
+can do here today!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288084</PointerOffset>
       <JapaneseText>挑戦者は&lt;Arche&gt;・クライン！
 ブライトローズの魔女と
 しても有名な彼女！</JapaneseText>
-      <EnglishText>Our challenger, &lt;Arche&gt;
-Klein! She's also famous
-as a witch, Bright Rose!</EnglishText>
+      <EnglishText>Our challenger, &lt;Arche&gt; Klaine!
+She's also famous as the
+witch, Bright Rose!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288084</PointerOffset>
       <JapaneseText>既に２００歳を越える
 そうですが、
 そうは見えません！</JapaneseText>
-      <EnglishText>It seems she's already lived
-more than 200 years, but you'd
-never know it to look at her!</EnglishText>
+      <EnglishText>It seems she's already lived more
+than 200 years, but you'd never
+know it to look at her!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288156</PointerOffset>
@@ -565,7 +565,7 @@ my beauty tips?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>35</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288248</PointerOffset>
@@ -578,7 +578,7 @@ it's to be expected!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>36</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288436</PointerOffset>
@@ -589,7 +589,7 @@ it's to be expected!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288436</PointerOffset>
@@ -603,7 +603,7 @@ and a great lover!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288436</PointerOffset>
@@ -613,7 +613,7 @@ and a great lover!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>37</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288500</PointerOffset>
@@ -624,18 +624,18 @@ what I can.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>40</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288580</PointerOffset>
       <JapaneseText>余裕ある発言！
 これぞ、大人の貫禄か！</JapaneseText>
-      <EnglishText>Such an easy response! Is this
-the dignified presence of an adult!?</EnglishText>
+      <EnglishText>Such an easy response! Is this the
+dignified presence of an adult!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288744</PointerOffset>
@@ -649,7 +649,7 @@ on this arena, and not all of them good!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288744</PointerOffset>
@@ -661,20 +661,19 @@ feelings with something new!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288828</PointerOffset>
       <JapaneseText>いつまでも、
 立ち止まっては……
 いられませんから</JapaneseText>
-      <EnglishText>After all...I cannot
-remain standing
-still, forever.</EnglishText>
+      <EnglishText>After all...I cannot remain
+standing still, forever.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>44</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288932</PointerOffset>
@@ -682,12 +681,12 @@ still, forever.</EnglishText>
 その果敢な瞳が印象的！
 個人的にはイチオシしたい！</JapaneseText>
       <EnglishText>Though she's young, that
-fire in her eyes is iconic! She's
-my personal top pick!</EnglishText>
+fire in her eyes is iconic!
+She's my personal top pick!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>45</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289076</PointerOffset>
@@ -699,7 +698,7 @@ delay! Let us begin!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289076</PointerOffset>
@@ -713,7 +712,7 @@ Focus on the enemy before you!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289216</PointerOffset>
@@ -727,7 +726,7 @@ I assure you I'll gather your bones!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>48</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289216</PointerOffset>
@@ -739,7 +738,7 @@ Ready? Fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>48</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289328</PointerOffset>
@@ -751,7 +750,7 @@ feeling? Have you warmed up?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>50</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289328</PointerOffset>
@@ -763,7 +762,7 @@ opponent is...this!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289456</PointerOffset>
@@ -775,7 +774,7 @@ person here is cheering for you!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>52</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289456</PointerOffset>
@@ -787,7 +786,7 @@ Ready? Fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289576</PointerOffset>
@@ -800,7 +799,7 @@ or were they all bark and no bite?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>54</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289576</PointerOffset>
@@ -812,7 +811,7 @@ come back for another challenge!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>54</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289684</PointerOffset>
@@ -824,7 +823,7 @@ still ready for more!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>56</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289684</PointerOffset>
@@ -836,7 +835,7 @@ opponent is...this!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289808</PointerOffset>
@@ -848,7 +847,7 @@ it! Stand strong and fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>58</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289808</PointerOffset>
@@ -860,7 +859,7 @@ Ready? Fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>58</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289964</PointerOffset>
@@ -872,21 +871,21 @@ victory before just a fluke!?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>60</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289964</PointerOffset>
       <JapaneseText>だが、チャンスはまだある！
 我が闘技場は君の挑戦を
 いつでも待っている！</JapaneseText>
-      <EnglishText>But they still have a
-chance! You can always
-challenge our arena again!</EnglishText>
+      <EnglishText>But they still have a chance!
+You can always challenge our
+arena again!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>60</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290088</PointerOffset>
@@ -895,12 +894,12 @@ challenge our arena again!</EnglishText>
 上手くいくと思うな！</JapaneseText>
       <EnglishText>You're pretty capable, huh!
 But don't think it'll go this
-smoothly ever time!</EnglishText>
+smoothly every time!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>62</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290088</PointerOffset>
@@ -912,7 +911,7 @@ opponent is...this!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>62</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290212</PointerOffset>
@@ -924,7 +923,7 @@ approach this opponent!?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>64</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290212</PointerOffset>
@@ -936,7 +935,7 @@ Ready? Fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>64</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290348</PointerOffset>
@@ -950,7 +949,7 @@ A single mistake can be a mortal wound!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>66</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290348</PointerOffset>
@@ -962,7 +961,7 @@ and you'll go far tomorrow!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290456</PointerOffset>
@@ -974,7 +973,7 @@ hungry for more!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>68</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290456</PointerOffset>
@@ -986,7 +985,7 @@ opponent is...this!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>68</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290608</PointerOffset>
@@ -1000,7 +999,7 @@ to our audience today!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>70</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290608</PointerOffset>
@@ -1012,7 +1011,7 @@ Ready? Fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>70</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290728</PointerOffset>
@@ -1024,7 +1023,7 @@ Rain on our parade!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>72</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290728</PointerOffset>
@@ -1036,7 +1035,7 @@ end for you! Farewell!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>72</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290844</PointerOffset>
@@ -1050,7 +1049,7 @@ Beautiful!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>74</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290844</PointerOffset>
@@ -1062,7 +1061,7 @@ opponent is...this!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>74</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290984</PointerOffset>
@@ -1076,7 +1075,7 @@ never live it down!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>76</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290984</PointerOffset>
@@ -1088,7 +1087,7 @@ Ready? Fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>76</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291136</PointerOffset>
@@ -1101,7 +1100,7 @@ been shattered!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>78</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291136</PointerOffset>
@@ -1115,7 +1114,7 @@ and set foot again on this very stage!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291216</PointerOffset>
@@ -1123,12 +1122,12 @@ and set foot again on this very stage!</EnglishText>
 もはやこれは
 ラベルが違う！</JapaneseText>
       <EnglishText>Wow, okay! Our challenger
-today is operating
-at whole new label!</EnglishText>
+today is operating at a
+whole new label!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>80</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291288</PointerOffset>
@@ -1139,7 +1138,7 @@ mean "level"...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>81</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291360</PointerOffset>
@@ -1150,7 +1149,7 @@ opponent is...this!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>82</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291516</PointerOffset>
@@ -1162,7 +1161,7 @@ you'll always stand and fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>83</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291516</PointerOffset>
@@ -1176,7 +1175,7 @@ Ready? Fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291696</PointerOffset>
@@ -1190,7 +1189,7 @@ only to fall and lose it all!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>85</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291696</PointerOffset>
@@ -1204,7 +1203,7 @@ future awaits you! Till we meet again!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291832</PointerOffset>
@@ -1218,7 +1217,7 @@ I can't even speak!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>87</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291832</PointerOffset>
@@ -1230,7 +1229,7 @@ opponent is...this!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291972</PointerOffset>
@@ -1243,7 +1242,7 @@ this is the final battle!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>89</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291972</PointerOffset>
@@ -1255,7 +1254,7 @@ Ready? Fight!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292116</PointerOffset>
@@ -1269,7 +1268,7 @@ proud! Do not cry!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>91</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292116</PointerOffset>
@@ -1283,7 +1282,7 @@ Next time, you'll win for sure!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>91</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292244</PointerOffset>
@@ -1292,7 +1291,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>93</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292300</PointerOffset>
@@ -1301,7 +1300,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>94</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292348</PointerOffset>
@@ -1310,7 +1309,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>95</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292392</PointerOffset>
@@ -1319,7 +1318,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>96</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292436</PointerOffset>
@@ -1328,7 +1327,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>97</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292492</PointerOffset>
@@ -1337,7 +1336,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>98</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292540</PointerOffset>
@@ -1346,7 +1345,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>99</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292592</PointerOffset>
@@ -1355,7 +1354,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>100</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292640</PointerOffset>
@@ -1364,7 +1363,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>101</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292696</PointerOffset>
@@ -1373,7 +1372,7 @@ Next time, you'll win for sure!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>102</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292872</PointerOffset>
@@ -1386,7 +1385,7 @@ in victory before you today!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>103</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292872</PointerOffset>
@@ -1398,19 +1397,18 @@ warrior into your very hearts!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>103</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292872</PointerOffset>
       <JapaneseText>では！
 またお会いしましょう！！</JapaneseText>
-      <EnglishText>Well, then! Until
-we meet again!</EnglishText>
+      <EnglishText>Well, then! Until we meet again!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>103</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292996</PointerOffset>
@@ -1424,7 +1422,7 @@ collective, sorrowful sigh!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>106</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292996</PointerOffset>
@@ -1436,13 +1434,13 @@ mortified to even cry!?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>106</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>279674</PointerOffset>
+      <PointerOffset>84476</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1450,7 +1448,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279693</PointerOffset>
+      <PointerOffset>86036</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1458,7 +1456,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279723</PointerOffset>
+      <PointerOffset>90680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1466,7 +1464,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279928</PointerOffset>
+      <PointerOffset>92500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1474,7 +1472,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279961</PointerOffset>
+      <PointerOffset>92768</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1482,7 +1480,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280026</PointerOffset>
+      <PointerOffset>93940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1490,7 +1488,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280062</PointerOffset>
+      <PointerOffset>94244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1498,7 +1496,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280133</PointerOffset>
+      <PointerOffset>94592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1506,7 +1504,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280199</PointerOffset>
+      <PointerOffset>95912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1514,7 +1512,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280238</PointerOffset>
+      <PointerOffset>96252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1522,7 +1520,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280314</PointerOffset>
+      <PointerOffset>96664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1530,7 +1528,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280385</PointerOffset>
+      <PointerOffset>97012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1538,7 +1536,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280462</PointerOffset>
+      <PointerOffset>98416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1546,7 +1544,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280489</PointerOffset>
+      <PointerOffset>98636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1554,7 +1552,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280580</PointerOffset>
+      <PointerOffset>99240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1562,7 +1560,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280666</PointerOffset>
+      <PointerOffset>99780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1570,7 +1568,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280747</PointerOffset>
+      <PointerOffset>100256</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1578,7 +1576,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280823</PointerOffset>
+      <PointerOffset>100668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1586,7 +1584,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280894</PointerOffset>
+      <PointerOffset>101016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1594,7 +1592,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280971</PointerOffset>
+      <PointerOffset>101424</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1602,7 +1600,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281107</PointerOffset>
+      <PointerOffset>101808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1610,7 +1608,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281140</PointerOffset>
+      <PointerOffset>102832</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1618,7 +1616,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281184</PointerOffset>
+      <PointerOffset>103248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1626,7 +1624,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281299</PointerOffset>
+      <PointerOffset>105840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1634,7 +1632,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281370</PointerOffset>
+      <PointerOffset>108368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1642,7 +1640,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281420</PointerOffset>
+      <PointerOffset>108816</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1650,7 +1648,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281547</PointerOffset>
+      <PointerOffset>111968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1658,7 +1656,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281590</PointerOffset>
+      <PointerOffset>113916</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1666,7 +1664,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281609</PointerOffset>
+      <PointerOffset>114720</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1674,7 +1672,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281739</PointerOffset>
+      <PointerOffset>116180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1682,7 +1680,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282109</PointerOffset>
+      <PointerOffset>132160</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1690,7 +1688,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282162</PointerOffset>
+      <PointerOffset>132352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1698,7 +1696,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282474</PointerOffset>
+      <PointerOffset>150508</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1706,7 +1704,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282550</PointerOffset>
+      <PointerOffset>150868</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1714,7 +1712,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282705</PointerOffset>
+      <PointerOffset>159952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1722,7 +1720,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282813</PointerOffset>
+      <PointerOffset>168696</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1730,7 +1728,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282987</PointerOffset>
+      <PointerOffset>171320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1738,7 +1736,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283063</PointerOffset>
+      <PointerOffset>171844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1746,7 +1744,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283161</PointerOffset>
+      <PointerOffset>173548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1754,7 +1752,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283267</PointerOffset>
+      <PointerOffset>177556</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1762,7 +1760,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283333</PointerOffset>
+      <PointerOffset>182752</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1770,7 +1768,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283386</PointerOffset>
+      <PointerOffset>186208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1778,7 +1776,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283500</PointerOffset>
+      <PointerOffset>199368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1786,7 +1784,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283697</PointerOffset>
+      <PointerOffset>202064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1794,7 +1792,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283747</PointerOffset>
+      <PointerOffset>211548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1802,7 +1800,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283792</PointerOffset>
+      <PointerOffset>215528</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1810,7 +1808,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283846</PointerOffset>
+      <PointerOffset>217352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1818,7 +1816,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283939</PointerOffset>
+      <PointerOffset>220356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1826,7 +1824,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284004</PointerOffset>
+      <PointerOffset>220960</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1834,7 +1832,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284069</PointerOffset>
+      <PointerOffset>221612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1842,7 +1840,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284134</PointerOffset>
+      <PointerOffset>222216</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1850,7 +1848,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284200</PointerOffset>
+      <PointerOffset>227180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1858,7 +1856,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284248</PointerOffset>
+      <PointerOffset>232972</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1866,7 +1864,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284296</PointerOffset>
+      <PointerOffset>233284</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1874,7 +1872,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284350</PointerOffset>
+      <PointerOffset>233820</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1882,7 +1880,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284410</PointerOffset>
+      <PointerOffset>234288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1890,7 +1888,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284464</PointerOffset>
+      <PointerOffset>234688</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1898,7 +1896,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284518</PointerOffset>
+      <PointerOffset>235156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1906,7 +1904,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284621</PointerOffset>
+      <PointerOffset>249532</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1914,7 +1912,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284679</PointerOffset>
+      <PointerOffset>249700</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1922,7 +1920,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284808</PointerOffset>
+      <PointerOffset>253948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1930,7 +1928,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285149</PointerOffset>
+      <PointerOffset>256140</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1938,7 +1936,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285350</PointerOffset>
+      <PointerOffset>256308</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1946,7 +1944,7 @@ mortified to even cry!?</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293115</PointerOffset>
+      <PointerOffset>271660</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Dio&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -1954,10 +1952,10 @@ Incredible, &lt;Dio&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>64</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293172</PointerOffset>
+      <PointerOffset>272016</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Mel&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -1965,10 +1963,10 @@ Incredible, &lt;Mel&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>65</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293229</PointerOffset>
+      <PointerOffset>272372</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Rondoline&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -1976,10 +1974,10 @@ Incredible, &lt;Rondoline&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>66</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293286</PointerOffset>
+      <PointerOffset>272728</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Couleur&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -1987,10 +1985,10 @@ Incredible, &lt;Couleur&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>67</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293343</PointerOffset>
+      <PointerOffset>273084</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Cless&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -1998,10 +1996,10 @@ Incredible, &lt;Cless&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>68</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293400</PointerOffset>
+      <PointerOffset>273440</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Mint&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -2009,10 +2007,10 @@ Incredible, &lt;Mint&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>69</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293457</PointerOffset>
+      <PointerOffset>273796</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Chester&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -2020,10 +2018,10 @@ Incredible, &lt;Chester&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>70</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293514</PointerOffset>
+      <PointerOffset>274152</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Arche&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -2031,10 +2029,10 @@ Incredible, &lt;Arche&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>71</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293571</PointerOffset>
+      <PointerOffset>274508</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Klarth&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -2042,10 +2040,10 @@ Incredible, &lt;Klarth&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>72</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>293628</PointerOffset>
+      <PointerOffset>274864</PointerOffset>
       <JapaneseText>なんと！　優勝です！
 &lt;Suzu&gt;、見事すぎる！</JapaneseText>
       <EnglishText>Wow! A total victory!
@@ -2053,7 +2051,7 @@ Incredible, &lt;Suzu&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>17</SpeakerId>
       <Id>73</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>

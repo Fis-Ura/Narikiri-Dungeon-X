@@ -75,7 +75,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281277</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -83,7 +83,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281318</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -91,7 +91,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281344,281582,281647,281683,281754,281820,281859,281935,282006,282072,282083,282201,282287,282368,282444,282515,282581,282592,282761,282794,282805,282920,283030,283041,283168,283211,283396,284160,284171,284326,284434,284608,284684,284782,284888,284954,285007,285121,285318,285560,285625,285690,285755,286429,286770,286971</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -99,7 +99,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>283281,283729,285412,285466,285522,285820,285868,285916,285970,286030,286084,286138,286241,286299</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -107,7 +107,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>283783</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -124,7 +124,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287264</PointerOffset>
@@ -133,7 +133,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287364</PointerOffset>
@@ -145,7 +145,7 @@ time just to ourselves, so...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287364</PointerOffset>
@@ -155,7 +155,7 @@ time just to ourselves, so...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287460</PointerOffset>
@@ -167,7 +167,7 @@ everyone noticed...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287600</PointerOffset>
@@ -179,7 +179,7 @@ That's not good...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287600</PointerOffset>
@@ -193,7 +193,7 @@ to feel ashamed of.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287668</PointerOffset>
@@ -204,7 +204,7 @@ of...? Such as...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287712</PointerOffset>
@@ -213,7 +213,7 @@ of...? Such as...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287808</PointerOffset>
@@ -226,7 +226,7 @@ able to talk, just the two of us.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287940</PointerOffset>
@@ -236,7 +236,7 @@ able to talk, just the two of us.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>287940</PointerOffset>
@@ -250,7 +250,7 @@ it hasn't been very long at all.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288012</PointerOffset>
@@ -261,7 +261,7 @@ since we were in that dungeon.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288056</PointerOffset>
@@ -270,7 +270,7 @@ since we were in that dungeon.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288160</PointerOffset>
@@ -282,19 +282,18 @@ I had a thought.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288160</PointerOffset>
       <JapaneseText>ああ、これって
 ハッピーエンドなんだって</JapaneseText>
-      <EnglishText>"This is our
-happy ending."</EnglishText>
+      <EnglishText>"This is our happy ending."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288204</PointerOffset>
@@ -303,7 +302,7 @@ happy ending."</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288392</PointerOffset>
@@ -317,7 +316,7 @@ and it's never sat right with me.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288392</PointerOffset>
@@ -331,7 +330,7 @@ happiness, life still goes on.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288476</PointerOffset>
@@ -342,7 +341,7 @@ both good times and bad.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288624</PointerOffset>
@@ -354,7 +353,7 @@ but also sad parts.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288624</PointerOffset>
@@ -368,7 +367,7 @@ someday. And then...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288672</PointerOffset>
@@ -377,7 +376,7 @@ someday. And then...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288732</PointerOffset>
@@ -386,7 +385,7 @@ someday. And then...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288776</PointerOffset>
@@ -395,7 +394,7 @@ someday. And then...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288928</PointerOffset>
@@ -407,7 +406,7 @@ it's not something we can avoid.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288928</PointerOffset>
@@ -421,7 +420,7 @@ overcome it and keep on living.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>288984</PointerOffset>
@@ -430,7 +429,7 @@ overcome it and keep on living.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289072</PointerOffset>
@@ -441,7 +440,7 @@ we can never lose...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289124</PointerOffset>
@@ -450,7 +449,7 @@ we can never lose...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289176</PointerOffset>
@@ -459,7 +458,7 @@ we can never lose...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289264</PointerOffset>
@@ -472,7 +471,7 @@ too honest, &lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>32</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289332</PointerOffset>
@@ -483,7 +482,7 @@ one to talk...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289540</PointerOffset>
@@ -493,21 +492,21 @@ one to talk...?</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289540</PointerOffset>
       <JapaneseText>強くあって……あり続けて、
 それでも……つらい時は……
 いつでも私が……</JapaneseText>
-      <EnglishText>You're strong...and you will
-ever remain strong, but...still,
-when you're hurting, I'll always...</EnglishText>
+      <EnglishText>You're strong...and you will ever
+remain strong, but...still, when
+you're hurting, I'll always...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289540</PointerOffset>
@@ -521,19 +520,18 @@ there for you!</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289540</PointerOffset>
       <JapaneseText>そのことを……
 忘れないでください</JapaneseText>
-      <EnglishText>Please...don't
-ever forget that.</EnglishText>
+      <EnglishText>Please...don't ever forget that.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>
       <BubbleId>3</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289588</PointerOffset>
@@ -542,7 +540,7 @@ ever forget that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289644</PointerOffset>
@@ -552,7 +550,7 @@ ever forget that.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289644</PointerOffset>
@@ -562,7 +560,7 @@ ever forget that.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289692</PointerOffset>
@@ -571,7 +569,7 @@ ever forget that.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>41</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289740</PointerOffset>
@@ -580,7 +578,7 @@ ever forget that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289836</PointerOffset>
@@ -591,7 +589,7 @@ What are you two even doing!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>43</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289908</PointerOffset>
@@ -602,7 +600,7 @@ What are you doing!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>44</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>289976</PointerOffset>
@@ -613,7 +611,7 @@ you're too early...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290028</PointerOffset>
@@ -622,7 +620,7 @@ you're too early...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>46</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290072</PointerOffset>
@@ -631,7 +629,7 @@ you're too early...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>47</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290128</PointerOffset>
@@ -640,7 +638,7 @@ you're too early...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>48</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290192</PointerOffset>
@@ -649,7 +647,7 @@ you're too early...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>49</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290256</PointerOffset>
@@ -659,7 +657,7 @@ you're too early...!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>50</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290336</PointerOffset>
@@ -670,18 +668,18 @@ you, but she wouldn't stop.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>51</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290412</PointerOffset>
       <JapaneseText>でも、&lt;Chester&gt;だって、
 『早すぎ』って……</JapaneseText>
-      <EnglishText>But, &lt;Chester&gt;, didn't you just
-say Arche came out "too early"?</EnglishText>
+      <EnglishText>But, &lt;Chester&gt;, didn't you just say
+&lt;Arche&gt; came out "too early"?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>52</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290492</PointerOffset>
@@ -692,7 +690,7 @@ to watch them, too!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>53</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290568</PointerOffset>
@@ -703,18 +701,18 @@ please don't fight over me!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>54</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290656</PointerOffset>
       <JapaneseText>もう、また&lt;Rody&gt;さん、
 ひっかきまわすんだから……</JapaneseText>
-      <EnglishText>C'mon, &lt;Rody&gt;, do you
-always have to make it worse?</EnglishText>
+      <EnglishText>C'mon, &lt;Rody&gt;, do you always
+have to make it worse?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>55</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290716</PointerOffset>
@@ -723,7 +721,7 @@ always have to make it worse?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>56</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>290764</PointerOffset>
@@ -732,13 +730,13 @@ always have to make it worse?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>57</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>281306</PointerOffset>
+      <PointerOffset>84476</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -746,7 +744,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281325</PointerOffset>
+      <PointerOffset>86036</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -754,7 +752,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281355</PointerOffset>
+      <PointerOffset>90680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -762,7 +760,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281560</PointerOffset>
+      <PointerOffset>92500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -770,7 +768,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281593</PointerOffset>
+      <PointerOffset>92768</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -778,7 +776,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281658</PointerOffset>
+      <PointerOffset>93940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -786,7 +784,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281694</PointerOffset>
+      <PointerOffset>94244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -794,7 +792,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281765</PointerOffset>
+      <PointerOffset>94592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -802,7 +800,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281831</PointerOffset>
+      <PointerOffset>95912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -810,7 +808,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281870</PointerOffset>
+      <PointerOffset>96252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -818,7 +816,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281946</PointerOffset>
+      <PointerOffset>96664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -826,7 +824,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282017</PointerOffset>
+      <PointerOffset>97012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -834,7 +832,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282094</PointerOffset>
+      <PointerOffset>98416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -842,7 +840,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282121</PointerOffset>
+      <PointerOffset>98636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -850,7 +848,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282212</PointerOffset>
+      <PointerOffset>99240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -858,7 +856,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282298</PointerOffset>
+      <PointerOffset>99780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -866,7 +864,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282379</PointerOffset>
+      <PointerOffset>100256</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -874,7 +872,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282455</PointerOffset>
+      <PointerOffset>100668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -882,7 +880,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282526</PointerOffset>
+      <PointerOffset>101016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -890,7 +888,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282603</PointerOffset>
+      <PointerOffset>101424</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -898,7 +896,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282739</PointerOffset>
+      <PointerOffset>101808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -906,7 +904,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282772</PointerOffset>
+      <PointerOffset>102832</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -914,7 +912,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282816</PointerOffset>
+      <PointerOffset>103248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -922,7 +920,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282931</PointerOffset>
+      <PointerOffset>105840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -930,7 +928,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283002</PointerOffset>
+      <PointerOffset>108368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -938,7 +936,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283052</PointerOffset>
+      <PointerOffset>108816</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -946,7 +944,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283179</PointerOffset>
+      <PointerOffset>111968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -954,7 +952,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283222</PointerOffset>
+      <PointerOffset>113916</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -962,7 +960,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283241</PointerOffset>
+      <PointerOffset>114720</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -970,7 +968,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283371</PointerOffset>
+      <PointerOffset>116180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -978,7 +976,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283741</PointerOffset>
+      <PointerOffset>132160</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -986,7 +984,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283794</PointerOffset>
+      <PointerOffset>132352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -994,7 +992,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284106</PointerOffset>
+      <PointerOffset>150508</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1002,7 +1000,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284182</PointerOffset>
+      <PointerOffset>150868</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1010,7 +1008,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284337</PointerOffset>
+      <PointerOffset>159952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1018,7 +1016,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284445</PointerOffset>
+      <PointerOffset>168696</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1026,7 +1024,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284619</PointerOffset>
+      <PointerOffset>171320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1034,7 +1032,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284695</PointerOffset>
+      <PointerOffset>171844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1042,7 +1040,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284793</PointerOffset>
+      <PointerOffset>173548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1050,7 +1048,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284899</PointerOffset>
+      <PointerOffset>177556</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1058,7 +1056,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284965</PointerOffset>
+      <PointerOffset>182752</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1066,7 +1064,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285018</PointerOffset>
+      <PointerOffset>186208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1074,7 +1072,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285132</PointerOffset>
+      <PointerOffset>199368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1082,7 +1080,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285329</PointerOffset>
+      <PointerOffset>202064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1090,7 +1088,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285379</PointerOffset>
+      <PointerOffset>211548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1098,7 +1096,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285424</PointerOffset>
+      <PointerOffset>215528</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1106,7 +1104,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285478</PointerOffset>
+      <PointerOffset>217352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1114,7 +1112,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285571</PointerOffset>
+      <PointerOffset>220356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1122,7 +1120,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285636</PointerOffset>
+      <PointerOffset>220960</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1130,7 +1128,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285701</PointerOffset>
+      <PointerOffset>221612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1138,7 +1136,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285766</PointerOffset>
+      <PointerOffset>222216</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1146,7 +1144,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285832</PointerOffset>
+      <PointerOffset>227180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1154,7 +1152,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285880</PointerOffset>
+      <PointerOffset>232972</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1162,7 +1160,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285928</PointerOffset>
+      <PointerOffset>233284</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1170,7 +1168,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285982</PointerOffset>
+      <PointerOffset>233820</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1178,7 +1176,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286042</PointerOffset>
+      <PointerOffset>234288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1186,7 +1184,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286096</PointerOffset>
+      <PointerOffset>234688</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1194,7 +1192,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286150</PointerOffset>
+      <PointerOffset>235156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1202,7 +1200,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286253</PointerOffset>
+      <PointerOffset>249532</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1210,7 +1208,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286311</PointerOffset>
+      <PointerOffset>249700</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1218,7 +1216,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286440</PointerOffset>
+      <PointerOffset>253948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1226,7 +1224,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286781</PointerOffset>
+      <PointerOffset>256140</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1234,7 +1232,7 @@ always have to make it worse?</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286982</PointerOffset>
+      <PointerOffset>256308</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

@@ -35,7 +35,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>271521</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -43,7 +43,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>271562</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -59,7 +59,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>273525,273973,275647,275701,275757,276055,276103,276151,276205,276265,276319,276373,276476,276534</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -67,7 +67,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274027</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -91,12 +91,12 @@
 前にバジルさんに
 頼まれ事してたよな……</JapaneseText>
       <EnglishText>...Now that I think of it...
-Didn't Basil ask us
-to do a favor for him?</EnglishText>
+Didn't Basil ask us to do
+a favor for him?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277624</PointerOffset>
@@ -106,7 +106,7 @@ to do a favor for him?</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277624</PointerOffset>
@@ -120,7 +120,7 @@ He's not involved with Sigurd...</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277724</PointerOffset>
@@ -130,21 +130,21 @@ He's not involved with Sigurd...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277724</PointerOffset>
       <JapaneseText>オレさ……
 どういう顔して会えば
 いいか、わかんねよ……</JapaneseText>
-      <EnglishText>I, uh... I'm not
-really sure how to
-act if we meet him...</EnglishText>
+      <EnglishText>I, uh... I'm not really
+sure how to act if
+we meet him...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277768</PointerOffset>
@@ -153,20 +153,20 @@ act if we meet him...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277868</PointerOffset>
       <JapaneseText>でもさ、ここで未来で
 起きること教えてあげれば、
 もしかしたら……</JapaneseText>
-      <EnglishText>But maybe, if
-we told him what
-will happen, he'd...</EnglishText>
+      <EnglishText>But maybe, if we
+told him what will
+happen, he'd...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>277960</PointerOffset>
@@ -179,7 +179,7 @@ his future...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278056</PointerOffset>
@@ -189,7 +189,7 @@ his future...?</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278056</PointerOffset>
@@ -201,7 +201,7 @@ if we don't...</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278104</PointerOffset>
@@ -210,21 +210,21 @@ if we don't...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278288</PointerOffset>
       <JapaneseText>もし、それでバジルさんが、
 シグルドと関係なくなって、
 普通に研究してたとして……</JapaneseText>
-      <EnglishText>Well, imagine if he never
-joined Sigurd and just
-kept researching like always...</EnglishText>
+      <EnglishText>Well, imagine if he never joined
+Sigurd and just kept researching
+like always...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278288</PointerOffset>
@@ -238,20 +238,20 @@ never have happened?</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278384</PointerOffset>
       <JapaneseText>それはわからないけど……
 でも、だとしても
 何か不都合あるのか？</JapaneseText>
-      <EnglishText>I don't know...but,
-even if that were true,
-what's wrong with that?</EnglishText>
+      <EnglishText>I don't know...but, even
+if that were true, what's
+wrong with that?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278520</PointerOffset>
@@ -263,7 +263,7 @@ the reason you're here.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278520</PointerOffset>
@@ -277,18 +277,18 @@ and got her paintings...</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278588</PointerOffset>
       <JapaneseText>もとはと言えば、
 そうだけど……？</JapaneseText>
-      <EnglishText>Well, yeah, that's
-how it started, but...?</EnglishText>
+      <EnglishText>Well, yeah, that's how
+it started, but...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278732</PointerOffset>
@@ -300,7 +300,7 @@ caused by the magitech weapon...</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278732</PointerOffset>
@@ -314,7 +314,7 @@ when Sigurd occupied it...</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278840</PointerOffset>
@@ -327,34 +327,33 @@ Basil was helping them.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>278952</PointerOffset>
       <JapaneseText>……バジルさんがシグルドと
 関係なかったら、オレたち
 ここにいないってことか？</JapaneseText>
-      <EnglishText>...So if Basil never had
-anything to do with Sigurd,
-we wouldn't have come here?</EnglishText>
+      <EnglishText>...So if Basil never had anything
+to do with Sigurd, we wouldn't
+have come here?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279112</PointerOffset>
       <JapaneseText>そう……もし、&lt;Dio&gt;が
 バジルさんに全部、
 あったことを教えて</JapaneseText>
-      <EnglishText>Right... So, &lt;Dio&gt;,
-if you told Basil
-everything...</EnglishText>
+      <EnglishText>Right... So, &lt;Dio&gt;, if you
+told Basil everything...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279112</PointerOffset>
@@ -368,7 +367,7 @@ would be really weird.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279184</PointerOffset>
@@ -379,18 +378,17 @@ I can't just not say anything!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279248</PointerOffset>
       <JapaneseText>……うん……
 わたし、も……</JapaneseText>
-      <EnglishText>...Yeah. I
-can't, either.</EnglishText>
+      <EnglishText>...Yeah. I can't, either.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279308</PointerOffset>
@@ -401,20 +399,19 @@ without seeing him?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279392</PointerOffset>
       <JapaneseText>あの……今、
 君たち、バジル先生の
 話してた？</JapaneseText>
-      <EnglishText>Uhh... Were you
-talking about
-Basil, just now?</EnglishText>
+      <EnglishText>Uhh... Were you talking
+about Basil, just now?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279440</PointerOffset>
@@ -423,20 +420,19 @@ Basil, just now?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279532</PointerOffset>
       <JapaneseText>あ、君たち、
 もしかして&lt;Dio&gt;くんと
 &lt;Mel&gt;ちゃんかな？</JapaneseText>
-      <EnglishText>Ah, are you
-&lt;Dio&gt; and &lt;Mel&gt;,
-perhaps?</EnglishText>
+      <EnglishText>Ah, are you &lt;Dio&gt; and
+&lt;Mel&gt;, perhaps?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279588</PointerOffset>
@@ -445,7 +441,7 @@ perhaps?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279720</PointerOffset>
@@ -457,21 +453,20 @@ tiny fairy with you.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279720</PointerOffset>
       <JapaneseText>はじめまして、
 僕はバジル博士の助手を
 してるんだ</JapaneseText>
-      <EnglishText>It's nice to meet you.
-I'm working as Prof.
-Basil's assistant.</EnglishText>
+      <EnglishText>It's nice to meet you. I'm working
+as Professor Basil's assistant.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279768</PointerOffset>
@@ -480,7 +475,7 @@ Basil's assistant.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279820</PointerOffset>
@@ -489,7 +484,7 @@ Basil's assistant.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>34</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279972</PointerOffset>
@@ -503,7 +498,7 @@ Basil is on a long voyage at the moment.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279972</PointerOffset>
@@ -515,7 +510,7 @@ come, to tell you he's very sorry.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280024</PointerOffset>
@@ -524,7 +519,7 @@ come, to tell you he's very sorry.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>37</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280072</PointerOffset>
@@ -533,18 +528,17 @@ come, to tell you he's very sorry.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280136</PointerOffset>
       <JapaneseText>なんか
 ほっとした、ような……</JapaneseText>
-      <EnglishText>This is kind
-of a relief...</EnglishText>
+      <EnglishText>This is kind of a relief...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280256</PointerOffset>
@@ -557,7 +551,7 @@ to help with his research.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280304</PointerOffset>
@@ -566,7 +560,7 @@ to help with his research.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>41</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280696</PointerOffset>
@@ -575,7 +569,7 @@ to help with his research.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>42</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280848</PointerOffset>
@@ -589,7 +583,7 @@ you bring them to me?</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280848</PointerOffset>
@@ -601,7 +595,7 @@ yourselves. Only if you're able to.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280460</PointerOffset>
@@ -613,7 +607,7 @@ I'll take these.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280460</PointerOffset>
@@ -624,7 +618,7 @@ will be happy, too.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280644</PointerOffset>
@@ -634,7 +628,7 @@ will be happy, too.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>47</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280644</PointerOffset>
@@ -648,19 +642,19 @@ and gave them to him yourself.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>47</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280960</PointerOffset>
       <JapaneseText>また先生が戻ってきたら、
 来てね</JapaneseText>
       <EnglishText>When he returns,
-please do come.</EnglishText>
+do swing by.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>49</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280960</PointerOffset>
@@ -672,7 +666,7 @@ to see you again, too.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281008</PointerOffset>
@@ -681,7 +675,7 @@ to see you again, too.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>51</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281064</PointerOffset>
@@ -690,7 +684,7 @@ to see you again, too.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>52</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281240</PointerOffset>
@@ -699,7 +693,7 @@ to see you again, too.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>53</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281384</PointerOffset>
@@ -709,7 +703,7 @@ to see you again, too.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281384</PointerOffset>
@@ -721,7 +715,7 @@ be put back together, &lt;Dio&gt;.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281384</PointerOffset>
@@ -735,7 +729,7 @@ it, what's done is done.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>54</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281436</PointerOffset>
@@ -744,7 +738,7 @@ it, what's done is done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>57</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281512</PointerOffset>
@@ -754,7 +748,7 @@ it, what's done is done.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>58</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281512</PointerOffset>
@@ -765,13 +759,13 @@ it, what's done is done.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>58</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>271550</PointerOffset>
+      <PointerOffset>84476</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -779,7 +773,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>271569</PointerOffset>
+      <PointerOffset>86036</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -787,7 +781,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>271599</PointerOffset>
+      <PointerOffset>90680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -795,7 +789,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>271804</PointerOffset>
+      <PointerOffset>92500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -803,7 +797,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>271837</PointerOffset>
+      <PointerOffset>92768</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -811,7 +805,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>271902</PointerOffset>
+      <PointerOffset>93940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -819,7 +813,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>271938</PointerOffset>
+      <PointerOffset>94244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -827,7 +821,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272009</PointerOffset>
+      <PointerOffset>94592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -835,7 +829,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272075</PointerOffset>
+      <PointerOffset>95912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -843,7 +837,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272114</PointerOffset>
+      <PointerOffset>96252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -851,7 +845,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272190</PointerOffset>
+      <PointerOffset>96664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -859,7 +853,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272261</PointerOffset>
+      <PointerOffset>97012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -867,7 +861,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272338</PointerOffset>
+      <PointerOffset>98416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -875,7 +869,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272365</PointerOffset>
+      <PointerOffset>98636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -883,7 +877,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272456</PointerOffset>
+      <PointerOffset>99240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -891,7 +885,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272542</PointerOffset>
+      <PointerOffset>99780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -899,7 +893,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272623</PointerOffset>
+      <PointerOffset>100256</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -907,7 +901,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272699</PointerOffset>
+      <PointerOffset>100668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -915,7 +909,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272770</PointerOffset>
+      <PointerOffset>101016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -923,7 +917,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272847</PointerOffset>
+      <PointerOffset>101424</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -931,7 +925,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272983</PointerOffset>
+      <PointerOffset>101808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -939,7 +933,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273016</PointerOffset>
+      <PointerOffset>102832</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -947,7 +941,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273060</PointerOffset>
+      <PointerOffset>103248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -955,7 +949,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273175</PointerOffset>
+      <PointerOffset>105840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -963,7 +957,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273246</PointerOffset>
+      <PointerOffset>108132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -971,7 +965,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273296</PointerOffset>
+      <PointerOffset>108580</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -979,7 +973,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273423</PointerOffset>
+      <PointerOffset>111496</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -987,7 +981,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273466</PointerOffset>
+      <PointerOffset>113208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -995,7 +989,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273485</PointerOffset>
+      <PointerOffset>113776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1003,7 +997,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273615</PointerOffset>
+      <PointerOffset>115236</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1011,7 +1005,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273985</PointerOffset>
+      <PointerOffset>131216</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1019,7 +1013,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274038</PointerOffset>
+      <PointerOffset>131408</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1027,7 +1021,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274341</PointerOffset>
+      <PointerOffset>149364</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1035,7 +1029,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274417</PointerOffset>
+      <PointerOffset>149724</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1043,7 +1037,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274572</PointerOffset>
+      <PointerOffset>158808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1051,7 +1045,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274680</PointerOffset>
+      <PointerOffset>167552</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1059,7 +1053,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274854</PointerOffset>
+      <PointerOffset>170176</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1067,7 +1061,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274930</PointerOffset>
+      <PointerOffset>170700</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1075,7 +1069,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275028</PointerOffset>
+      <PointerOffset>172404</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1083,7 +1077,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275134</PointerOffset>
+      <PointerOffset>176412</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1091,7 +1085,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275200</PointerOffset>
+      <PointerOffset>181608</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1099,7 +1093,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275253</PointerOffset>
+      <PointerOffset>185064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1107,7 +1101,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275367</PointerOffset>
+      <PointerOffset>198356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1115,7 +1109,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275564</PointerOffset>
+      <PointerOffset>201052</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1123,7 +1117,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275614</PointerOffset>
+      <PointerOffset>210536</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1131,7 +1125,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275659</PointerOffset>
+      <PointerOffset>214516</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1139,7 +1133,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275713</PointerOffset>
+      <PointerOffset>216340</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1147,7 +1141,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275806</PointerOffset>
+      <PointerOffset>219344</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1155,7 +1149,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275871</PointerOffset>
+      <PointerOffset>219948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1163,7 +1157,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275936</PointerOffset>
+      <PointerOffset>220600</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1171,7 +1165,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276001</PointerOffset>
+      <PointerOffset>221204</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1179,7 +1173,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276067</PointerOffset>
+      <PointerOffset>226168</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1187,7 +1181,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276115</PointerOffset>
+      <PointerOffset>231960</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1195,7 +1189,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276163</PointerOffset>
+      <PointerOffset>232272</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1203,7 +1197,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276217</PointerOffset>
+      <PointerOffset>232808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1211,7 +1205,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276277</PointerOffset>
+      <PointerOffset>233276</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1219,7 +1213,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276331</PointerOffset>
+      <PointerOffset>233676</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1227,7 +1221,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276385</PointerOffset>
+      <PointerOffset>234144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1235,7 +1229,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276488</PointerOffset>
+      <PointerOffset>248520</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1243,7 +1237,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276546</PointerOffset>
+      <PointerOffset>248688</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1251,7 +1245,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276675</PointerOffset>
+      <PointerOffset>252936</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1259,7 +1253,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277016</PointerOffset>
+      <PointerOffset>255128</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1267,7 +1261,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277217</PointerOffset>
+      <PointerOffset>255296</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1275,7 +1269,7 @@ it, what's done is done.</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282315</PointerOffset>
+      <PointerOffset>265264</PointerOffset>
       <JapaneseText>渡す
 渡さない　　　　　　　　　　　</JapaneseText>
       <EnglishText>Hand them over
@@ -1283,10 +1277,10 @@ Don't hand them over</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>64</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282362</PointerOffset>
+      <PointerOffset>265580</PointerOffset>
       <JapaneseText>水精石１０個なんて
 持ってないだよ～</JapaneseText>
       <EnglishText>We haven't even got
@@ -1294,10 +1288,10 @@ Don't hand them over</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>65</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282409</PointerOffset>
+      <PointerOffset>266036</PointerOffset>
       <JapaneseText>水精石を１０個、
 渡しただ！</JapaneseText>
       <EnglishText>We handed over
@@ -1305,7 +1299,7 @@ Don't hand them over</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>66</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>
